@@ -1,0 +1,5600 @@
+{
+  "activeProjectId": "proj-solstice",
+  "branding": {
+    "workspaceName": "Cadence Studio",
+    "workspaceTagline": "Editorial Social Operations",
+    "accentColor": "#0F766E",
+    "themeMode": "light",
+    "themePreset": "aurora",
+    "backgroundPattern": "terrazzo",
+    "surfaceTranslucency": "frosted",
+    "density": "comfortable",
+    "cornerRadius": "balanced",
+    "fontPair": "jakarta",
+    "showWatermarkInPreviews": false
+  },
+  "canva": {
+    "connected": false,
+    "oauthConfigured": false,
+    "designs": [
+      {
+        "id": "canva-des-1",
+        "title": "Winter Botanical Serum Launch — 4:5 Carousel Cover",
+        "category": "Product Launch",
+        "dimensions": "1080 × 1350 px",
+        "mediaKey": "canva_template_launch",
+        "updatedAt": "2026-11-14T16:20:00.000Z",
+        "suggestedPlatforms": [
+          "instagram",
+          "pinterest",
+          "linkedin"
+        ]
+      },
+      {
+        "id": "canva-des-2",
+        "title": "Clinical Efficacy Ingredient Breakdown — LinkedIn Slide",
+        "category": "Thought Leadership",
+        "dimensions": "1200 × 1500 px",
+        "mediaKey": "asset_skincare_serum",
+        "updatedAt": "2026-11-12T11:05:00.000Z",
+        "suggestedPlatforms": [
+          "linkedin",
+          "facebook",
+          "x"
+        ]
+      },
+      {
+        "id": "canva-des-3",
+        "title": "Acoustic Isolation Spec Sheet — Dark Slate Hero",
+        "category": "Hardware Launch",
+        "dimensions": "1600 × 1200 px",
+        "mediaKey": "asset_audio_headphones",
+        "updatedAt": "2026-11-11T09:40:00.000Z",
+        "suggestedPlatforms": [
+          "youtube",
+          "linkedin",
+          "x"
+        ]
+      },
+      {
+        "id": "canva-des-4",
+        "title": "Morning Pour-Over Extraction Guide — 9:16 Reel Cover",
+        "category": "Short-Form Video",
+        "dimensions": "1080 × 1920 px",
+        "mediaKey": "asset_coffee_pour",
+        "updatedAt": "2026-11-10T14:15:00.000Z",
+        "suggestedPlatforms": [
+          "tiktok",
+          "instagram",
+          "youtube"
+        ]
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": "proj-solstice",
+      "name": "Solstice Skincare",
+      "industry": "Clean Beauty & Dermatology",
+      "handle": "@solsticeskin",
+      "summary": "Q4 barrier-repair serum launch across visual discovery, short-form tutorials, and B2B founder storytelling.",
+      "connectedPlatforms": [
+        "linkedin",
+        "instagram",
+        "facebook",
+        "x",
+        "youtube",
+        "pinterest",
+        "tiktok"
+      ],
+      "followersTotal": 148200,
+      "followerGrowth30dPct": 14.6,
+      "autoScheduleEnabled": true,
+      "autoScheduleRules": [
+        {
+          "platform": "linkedin",
+          "enabled": true,
+          "preferredHours": [
+            9,
+            12,
+            16
+          ],
+          "weeklyTarget": 4
+        },
+        {
+          "platform": "instagram",
+          "enabled": true,
+          "preferredHours": [
+            11,
+            14,
+            19
+          ],
+          "weeklyTarget": 5
+        },
+        {
+          "platform": "facebook",
+          "enabled": true,
+          "preferredHours": [
+            10,
+            13,
+            18
+          ],
+          "weeklyTarget": 3
+        },
+        {
+          "platform": "x",
+          "enabled": true,
+          "preferredHours": [
+            8,
+            12,
+            17
+          ],
+          "weeklyTarget": 7
+        },
+        {
+          "platform": "youtube",
+          "enabled": true,
+          "preferredHours": [
+            14,
+            17
+          ],
+          "weeklyTarget": 2
+        },
+        {
+          "platform": "pinterest",
+          "enabled": true,
+          "preferredHours": [
+            15,
+            20
+          ],
+          "weeklyTarget": 4
+        },
+        {
+          "platform": "tiktok",
+          "enabled": true,
+          "preferredHours": [
+            12,
+            18,
+            21
+          ],
+          "weeklyTarget": 5
+        }
+      ],
+      "pillars": [
+        {
+          "id": "pil-sol-1",
+          "projectId": "proj-solstice",
+          "name": "Clinical Efficacy & Formulation",
+          "description": "Ingredient science, lab testing transparency, and dermatologist Q&As.",
+          "targetSharePct": 35,
+          "tone": "Evidence-led, calm authority",
+          "audience": "Ingredient-conscious buyers & beauty editors"
+        },
+        {
+          "id": "pil-sol-2",
+          "projectId": "proj-solstice",
+          "name": "Daily Rituals & Texture",
+          "description": "ASMR application clips, morning/evening routines, and sensory storytelling.",
+          "targetSharePct": 40,
+          "tone": "Warm, tactile, unhurried",
+          "audience": "Skincare enthusiasts on Instagram, TikTok, Pinterest"
+        },
+        {
+          "id": "pil-sol-3",
+          "projectId": "proj-solstice",
+          "name": "Founder & Sustainability Notes",
+          "description": "Refillable packaging milestones, retail partnerships, and supply-chain updates.",
+          "targetSharePct": 25,
+          "tone": "Candid, editorial, transparent",
+          "audience": "LinkedIn retail buyers, press, and brand loyalists"
+        }
+      ],
+      "analyticsSeries": [
+        {
+          "date": "2026-08-18",
+          "followers": 129126,
+          "reach": 50995,
+          "impressions": 72413,
+          "engagements": 2448,
+          "platformBreakdown": {
+            "linkedin": 8669,
+            "instagram": 12239,
+            "facebook": 5609,
+            "x": 6119,
+            "youtube": 6629,
+            "pinterest": 4080,
+            "tiktok": 7649
+          }
+        },
+        {
+          "date": "2026-08-19",
+          "followers": 129873,
+          "reach": 53919,
+          "impressions": 76565,
+          "engagements": 2804,
+          "platformBreakdown": {
+            "linkedin": 9166,
+            "instagram": 12941,
+            "facebook": 5931,
+            "x": 6470,
+            "youtube": 7009,
+            "pinterest": 4314,
+            "tiktok": 8088
+          }
+        },
+        {
+          "date": "2026-08-20",
+          "followers": 130634,
+          "reach": 55787,
+          "impressions": 79218,
+          "engagements": 3124,
+          "platformBreakdown": {
+            "linkedin": 9484,
+            "instagram": 13389,
+            "facebook": 6137,
+            "x": 6694,
+            "youtube": 7252,
+            "pinterest": 4463,
+            "tiktok": 8368
+          }
+        },
+        {
+          "date": "2026-08-21",
+          "followers": 131397,
+          "reach": 56314,
+          "impressions": 79966,
+          "engagements": 3379,
+          "platformBreakdown": {
+            "linkedin": 9573,
+            "instagram": 13515,
+            "facebook": 6195,
+            "x": 6758,
+            "youtube": 7321,
+            "pinterest": 4505,
+            "tiktok": 8447
+          }
+        },
+        {
+          "date": "2026-08-22",
+          "followers": 132152,
+          "reach": 63149,
+          "impressions": 89672,
+          "engagements": 4042,
+          "platformBreakdown": {
+            "linkedin": 10735,
+            "instagram": 15156,
+            "facebook": 6946,
+            "x": 7578,
+            "youtube": 8209,
+            "pinterest": 5052,
+            "tiktok": 9472
+          }
+        },
+        {
+          "date": "2026-08-23",
+          "followers": 132888,
+          "reach": 60551,
+          "impressions": 85982,
+          "engagements": 2906,
+          "platformBreakdown": {
+            "linkedin": 10294,
+            "instagram": 14532,
+            "facebook": 6661,
+            "x": 7266,
+            "youtube": 7872,
+            "pinterest": 4844,
+            "tiktok": 9083
+          }
+        },
+        {
+          "date": "2026-08-24",
+          "followers": 133596,
+          "reach": 49746,
+          "impressions": 70639,
+          "engagements": 2587,
+          "platformBreakdown": {
+            "linkedin": 8457,
+            "instagram": 11939,
+            "facebook": 5472,
+            "x": 5970,
+            "youtube": 6467,
+            "pinterest": 3980,
+            "tiktok": 7462
+          }
+        },
+        {
+          "date": "2026-08-25",
+          "followers": 134272,
+          "reach": 45705,
+          "impressions": 64901,
+          "engagements": 2559,
+          "platformBreakdown": {
+            "linkedin": 7770,
+            "instagram": 10969,
+            "facebook": 5028,
+            "x": 5485,
+            "youtube": 5942,
+            "pinterest": 3656,
+            "tiktok": 6856
+          }
+        },
+        {
+          "date": "2026-08-26",
+          "followers": 134914,
+          "reach": 41498,
+          "impressions": 58927,
+          "engagements": 2490,
+          "platformBreakdown": {
+            "linkedin": 7055,
+            "instagram": 9960,
+            "facebook": 4565,
+            "x": 4980,
+            "youtube": 5395,
+            "pinterest": 3320,
+            "tiktok": 6225
+          }
+        },
+        {
+          "date": "2026-08-27",
+          "followers": 135524,
+          "reach": 37652,
+          "impressions": 53466,
+          "engagements": 2410,
+          "platformBreakdown": {
+            "linkedin": 6401,
+            "instagram": 9036,
+            "facebook": 4142,
+            "x": 4518,
+            "youtube": 4895,
+            "pinterest": 3012,
+            "tiktok": 5648
+          }
+        },
+        {
+          "date": "2026-08-28",
+          "followers": 136110,
+          "reach": 34641,
+          "impressions": 49190,
+          "engagements": 1663,
+          "platformBreakdown": {
+            "linkedin": 5889,
+            "instagram": 8314,
+            "facebook": 3811,
+            "x": 4157,
+            "youtube": 4503,
+            "pinterest": 2771,
+            "tiktok": 5196
+          }
+        },
+        {
+          "date": "2026-08-29",
+          "followers": 136680,
+          "reach": 37417,
+          "impressions": 53132,
+          "engagements": 1946,
+          "platformBreakdown": {
+            "linkedin": 6361,
+            "instagram": 8980,
+            "facebook": 4116,
+            "x": 4490,
+            "youtube": 4864,
+            "pinterest": 2993,
+            "tiktok": 5613
+          }
+        },
+        {
+          "date": "2026-08-30",
+          "followers": 137246,
+          "reach": 36923,
+          "impressions": 52431,
+          "engagements": 2068,
+          "platformBreakdown": {
+            "linkedin": 6277,
+            "instagram": 8862,
+            "facebook": 4062,
+            "x": 4431,
+            "youtube": 4800,
+            "pinterest": 2954,
+            "tiktok": 5538
+          }
+        },
+        {
+          "date": "2026-08-31",
+          "followers": 137818,
+          "reach": 33342,
+          "impressions": 47346,
+          "engagements": 2001,
+          "platformBreakdown": {
+            "linkedin": 5668,
+            "instagram": 8002,
+            "facebook": 3668,
+            "x": 4001,
+            "youtube": 4334,
+            "pinterest": 2667,
+            "tiktok": 5001
+          }
+        },
+        {
+          "date": "2026-09-01",
+          "followers": 138405,
+          "reach": 35498,
+          "impressions": 50407,
+          "engagements": 2272,
+          "platformBreakdown": {
+            "linkedin": 6035,
+            "instagram": 8520,
+            "facebook": 3905,
+            "x": 4260,
+            "youtube": 4615,
+            "pinterest": 2840,
+            "tiktok": 5325
+          }
+        },
+        {
+          "date": "2026-09-02",
+          "followers": 139014,
+          "reach": 38510,
+          "impressions": 54684,
+          "engagements": 1848,
+          "platformBreakdown": {
+            "linkedin": 6547,
+            "instagram": 9242,
+            "facebook": 4236,
+            "x": 4621,
+            "youtube": 5006,
+            "pinterest": 3081,
+            "tiktok": 5777
+          }
+        },
+        {
+          "date": "2026-09-03",
+          "followers": 139648,
+          "reach": 41925,
+          "impressions": 59534,
+          "engagements": 2180,
+          "platformBreakdown": {
+            "linkedin": 7127,
+            "instagram": 10062,
+            "facebook": 4612,
+            "x": 5031,
+            "youtube": 5450,
+            "pinterest": 3354,
+            "tiktok": 6289
+          }
+        },
+        {
+          "date": "2026-09-04",
+          "followers": 140307,
+          "reach": 45248,
+          "impressions": 64252,
+          "engagements": 2534,
+          "platformBreakdown": {
+            "linkedin": 7692,
+            "instagram": 10860,
+            "facebook": 4977,
+            "x": 5430,
+            "youtube": 5882,
+            "pinterest": 3620,
+            "tiktok": 6787
+          }
+        },
+        {
+          "date": "2026-09-05",
+          "followers": 140986,
+          "reach": 54735,
+          "impressions": 77724,
+          "engagements": 3284,
+          "platformBreakdown": {
+            "linkedin": 9305,
+            "instagram": 13136,
+            "facebook": 6021,
+            "x": 6568,
+            "youtube": 7116,
+            "pinterest": 4379,
+            "tiktok": 8210
+          }
+        },
+        {
+          "date": "2026-09-06",
+          "followers": 141678,
+          "reach": 56828,
+          "impressions": 80696,
+          "engagements": 3637,
+          "platformBreakdown": {
+            "linkedin": 9661,
+            "instagram": 13639,
+            "facebook": 6251,
+            "x": 6819,
+            "youtube": 7388,
+            "pinterest": 4546,
+            "tiktok": 8524
+          }
+        },
+        {
+          "date": "2026-09-07",
+          "followers": 142374,
+          "reach": 50537,
+          "impressions": 71763,
+          "engagements": 2426,
+          "platformBreakdown": {
+            "linkedin": 8591,
+            "instagram": 12129,
+            "facebook": 5559,
+            "x": 6064,
+            "youtube": 6570,
+            "pinterest": 4043,
+            "tiktok": 7581
+          }
+        },
+        {
+          "date": "2026-09-08",
+          "followers": 143065,
+          "reach": 50034,
+          "impressions": 71048,
+          "engagements": 2602,
+          "platformBreakdown": {
+            "linkedin": 8506,
+            "instagram": 12008,
+            "facebook": 5504,
+            "x": 6004,
+            "youtube": 6504,
+            "pinterest": 4003,
+            "tiktok": 7505
+          }
+        },
+        {
+          "date": "2026-09-09",
+          "followers": 143742,
+          "reach": 48487,
+          "impressions": 68852,
+          "engagements": 2715,
+          "platformBreakdown": {
+            "linkedin": 8243,
+            "instagram": 11637,
+            "facebook": 5334,
+            "x": 5818,
+            "youtube": 6303,
+            "pinterest": 3879,
+            "tiktok": 7273
+          }
+        },
+        {
+          "date": "2026-09-10",
+          "followers": 144400,
+          "reach": 46201,
+          "impressions": 65605,
+          "engagements": 2772,
+          "platformBreakdown": {
+            "linkedin": 7854,
+            "instagram": 11088,
+            "facebook": 5082,
+            "x": 5544,
+            "youtube": 6006,
+            "pinterest": 3696,
+            "tiktok": 6930
+          }
+        },
+        {
+          "date": "2026-09-11",
+          "followers": 145037,
+          "reach": 43602,
+          "impressions": 61915,
+          "engagements": 2791,
+          "platformBreakdown": {
+            "linkedin": 7412,
+            "instagram": 10464,
+            "facebook": 4796,
+            "x": 5232,
+            "youtube": 5668,
+            "pinterest": 3488,
+            "tiktok": 6540
+          }
+        },
+        {
+          "date": "2026-09-12",
+          "followers": 145654,
+          "reach": 46933,
+          "impressions": 66645,
+          "engagements": 2253,
+          "platformBreakdown": {
+            "linkedin": 7979,
+            "instagram": 11264,
+            "facebook": 5163,
+            "x": 5632,
+            "youtube": 6101,
+            "pinterest": 3755,
+            "tiktok": 7040
+          }
+        },
+        {
+          "date": "2026-09-13",
+          "followers": 146255,
+          "reach": 44876,
+          "impressions": 63724,
+          "engagements": 2334,
+          "platformBreakdown": {
+            "linkedin": 7629,
+            "instagram": 10770,
+            "facebook": 4936,
+            "x": 5385,
+            "youtube": 5834,
+            "pinterest": 3590,
+            "tiktok": 6731
+          }
+        },
+        {
+          "date": "2026-09-14",
+          "followers": 146849,
+          "reach": 38568,
+          "impressions": 54767,
+          "engagements": 2160,
+          "platformBreakdown": {
+            "linkedin": 6557,
+            "instagram": 9256,
+            "facebook": 4242,
+            "x": 4628,
+            "youtube": 5014,
+            "pinterest": 3085,
+            "tiktok": 5785
+          }
+        },
+        {
+          "date": "2026-09-15",
+          "followers": 147445,
+          "reach": 39014,
+          "impressions": 55400,
+          "engagements": 2341,
+          "platformBreakdown": {
+            "linkedin": 6632,
+            "instagram": 9363,
+            "facebook": 4292,
+            "x": 4682,
+            "youtube": 5072,
+            "pinterest": 3121,
+            "tiktok": 5852
+          }
+        },
+        {
+          "date": "2026-09-16",
+          "followers": 148053,
+          "reach": 40762,
+          "impressions": 57882,
+          "engagements": 2609,
+          "platformBreakdown": {
+            "linkedin": 6930,
+            "instagram": 9783,
+            "facebook": 4484,
+            "x": 4891,
+            "youtube": 5299,
+            "pinterest": 3261,
+            "tiktok": 6114
+          }
+        },
+        {
+          "date": "2026-09-17",
+          "followers": 148683,
+          "reach": 43681,
+          "impressions": 62027,
+          "engagements": 2097,
+          "platformBreakdown": {
+            "linkedin": 7426,
+            "instagram": 10483,
+            "facebook": 4805,
+            "x": 5242,
+            "youtube": 5679,
+            "pinterest": 3494,
+            "tiktok": 6552
+          }
+        },
+        {
+          "date": "2026-09-18",
+          "followers": 149341,
+          "reach": 47466,
+          "impressions": 67402,
+          "engagements": 2468,
+          "platformBreakdown": {
+            "linkedin": 8069,
+            "instagram": 11392,
+            "facebook": 5221,
+            "x": 5696,
+            "youtube": 6171,
+            "pinterest": 3797,
+            "tiktok": 7120
+          }
+        },
+        {
+          "date": "2026-09-19",
+          "followers": 150030,
+          "reach": 58916,
+          "impressions": 83661,
+          "engagements": 3299,
+          "platformBreakdown": {
+            "linkedin": 10016,
+            "instagram": 14140,
+            "facebook": 6481,
+            "x": 7070,
+            "youtube": 7659,
+            "pinterest": 4713,
+            "tiktok": 8837
+          }
+        },
+        {
+          "date": "2026-09-20",
+          "followers": 150750,
+          "reach": 63630,
+          "impressions": 90355,
+          "engagements": 3818,
+          "platformBreakdown": {
+            "linkedin": 10817,
+            "instagram": 15271,
+            "facebook": 6999,
+            "x": 7636,
+            "youtube": 8272,
+            "pinterest": 5090,
+            "tiktok": 9545
+          }
+        },
+        {
+          "date": "2026-09-21",
+          "followers": 151496,
+          "reach": 59360,
+          "impressions": 84291,
+          "engagements": 3799,
+          "platformBreakdown": {
+            "linkedin": 10091,
+            "instagram": 14246,
+            "facebook": 6530,
+            "x": 7123,
+            "youtube": 7717,
+            "pinterest": 4749,
+            "tiktok": 8904
+          }
+        },
+        {
+          "date": "2026-09-22",
+          "followers": 152260,
+          "reach": 61872,
+          "impressions": 87858,
+          "engagements": 2970,
+          "platformBreakdown": {
+            "linkedin": 10518,
+            "instagram": 14849,
+            "facebook": 6806,
+            "x": 7425,
+            "youtube": 8043,
+            "pinterest": 4950,
+            "tiktok": 9281
+          }
+        },
+        {
+          "date": "2026-09-23",
+          "followers": 153032,
+          "reach": 63042,
+          "impressions": 89520,
+          "engagements": 3278,
+          "platformBreakdown": {
+            "linkedin": 10717,
+            "instagram": 15130,
+            "facebook": 6935,
+            "x": 7565,
+            "youtube": 8195,
+            "pinterest": 5043,
+            "tiktok": 9456
+          }
+        },
+        {
+          "date": "2026-09-24",
+          "followers": 153800,
+          "reach": 62735,
+          "impressions": 89084,
+          "engagements": 3513,
+          "platformBreakdown": {
+            "linkedin": 10665,
+            "instagram": 15056,
+            "facebook": 6901,
+            "x": 7528,
+            "youtube": 8156,
+            "pinterest": 5019,
+            "tiktok": 9410
+          }
+        },
+        {
+          "date": "2026-09-25",
+          "followers": 154554,
+          "reach": 61010,
+          "impressions": 86634,
+          "engagements": 3661,
+          "platformBreakdown": {
+            "linkedin": 10372,
+            "instagram": 14642,
+            "facebook": 6711,
+            "x": 7321,
+            "youtube": 7931,
+            "pinterest": 4881,
+            "tiktok": 9152
+          }
+        },
+        {
+          "date": "2026-09-26",
+          "followers": 155284,
+          "reach": 66247,
+          "impressions": 94071,
+          "engagements": 4240,
+          "platformBreakdown": {
+            "linkedin": 11262,
+            "instagram": 15899,
+            "facebook": 7287,
+            "x": 7950,
+            "youtube": 8612,
+            "pinterest": 5300,
+            "tiktok": 9937
+          }
+        },
+        {
+          "date": "2026-09-27",
+          "followers": 155984,
+          "reach": 62058,
+          "impressions": 88122,
+          "engagements": 2979,
+          "platformBreakdown": {
+            "linkedin": 10550,
+            "instagram": 14894,
+            "facebook": 6826,
+            "x": 7447,
+            "youtube": 8068,
+            "pinterest": 4965,
+            "tiktok": 9309
+          }
+        },
+        {
+          "date": "2026-09-28",
+          "followers": 156652,
+          "reach": 50478,
+          "impressions": 71679,
+          "engagements": 2625,
+          "platformBreakdown": {
+            "linkedin": 8581,
+            "instagram": 12115,
+            "facebook": 5553,
+            "x": 6057,
+            "youtube": 6562,
+            "pinterest": 4038,
+            "tiktok": 7572
+          }
+        },
+        {
+          "date": "2026-09-29",
+          "followers": 157290,
+          "reach": 46756,
+          "impressions": 66394,
+          "engagements": 2618,
+          "platformBreakdown": {
+            "linkedin": 7949,
+            "instagram": 11221,
+            "facebook": 5143,
+            "x": 5611,
+            "youtube": 6078,
+            "pinterest": 3740,
+            "tiktok": 7013
+          }
+        },
+        {
+          "date": "2026-09-30",
+          "followers": 157903,
+          "reach": 43745,
+          "impressions": 62118,
+          "engagements": 2625,
+          "platformBreakdown": {
+            "linkedin": 7437,
+            "instagram": 10499,
+            "facebook": 4812,
+            "x": 5249,
+            "youtube": 5687,
+            "pinterest": 3500,
+            "tiktok": 6562
+          }
+        },
+        {
+          "date": "2026-10-01",
+          "followers": 158500,
+          "reach": 41812,
+          "impressions": 59373,
+          "engagements": 2676,
+          "platformBreakdown": {
+            "linkedin": 7108,
+            "instagram": 10035,
+            "facebook": 4599,
+            "x": 5017,
+            "youtube": 5436,
+            "pinterest": 3345,
+            "tiktok": 6272
+          }
+        },
+        {
+          "date": "2026-10-02",
+          "followers": 159090,
+          "reach": 41162,
+          "impressions": 58450,
+          "engagements": 1976,
+          "platformBreakdown": {
+            "linkedin": 6998,
+            "instagram": 9879,
+            "facebook": 4528,
+            "x": 4939,
+            "youtube": 5351,
+            "pinterest": 3293,
+            "tiktok": 6174
+          }
+        },
+        {
+          "date": "2026-10-03",
+          "followers": 159684,
+          "reach": 47668,
+          "impressions": 67689,
+          "engagements": 2479,
+          "platformBreakdown": {
+            "linkedin": 8104,
+            "instagram": 11440,
+            "facebook": 5243,
+            "x": 5720,
+            "youtube": 6197,
+            "pinterest": 3813,
+            "tiktok": 7150
+          }
+        },
+        {
+          "date": "2026-10-04",
+          "followers": 160291,
+          "reach": 49705,
+          "impressions": 70581,
+          "engagements": 2783,
+          "platformBreakdown": {
+            "linkedin": 8450,
+            "instagram": 11929,
+            "facebook": 5468,
+            "x": 5965,
+            "youtube": 6462,
+            "pinterest": 3976,
+            "tiktok": 7456
+          }
+        },
+        {
+          "date": "2026-10-05",
+          "followers": 160916,
+          "reach": 46195,
+          "impressions": 65597,
+          "engagements": 2772,
+          "platformBreakdown": {
+            "linkedin": 7853,
+            "instagram": 11087,
+            "facebook": 5081,
+            "x": 5543,
+            "youtube": 6005,
+            "pinterest": 3696,
+            "tiktok": 6929
+          }
+        },
+        {
+          "date": "2026-10-06",
+          "followers": 161563,
+          "reach": 49161,
+          "impressions": 69809,
+          "engagements": 3146,
+          "platformBreakdown": {
+            "linkedin": 8357,
+            "instagram": 11799,
+            "facebook": 5408,
+            "x": 5899,
+            "youtube": 6391,
+            "pinterest": 3933,
+            "tiktok": 7374
+          }
+        },
+        {
+          "date": "2026-10-07",
+          "followers": 162231,
+          "reach": 52015,
+          "impressions": 73861,
+          "engagements": 2497,
+          "platformBreakdown": {
+            "linkedin": 8843,
+            "instagram": 12484,
+            "facebook": 5722,
+            "x": 6242,
+            "youtube": 6762,
+            "pinterest": 4161,
+            "tiktok": 7802
+          }
+        },
+        {
+          "date": "2026-10-08",
+          "followers": 162915,
+          "reach": 54302,
+          "impressions": 77109,
+          "engagements": 2824,
+          "platformBreakdown": {
+            "linkedin": 9231,
+            "instagram": 13032,
+            "facebook": 5973,
+            "x": 6516,
+            "youtube": 7059,
+            "pinterest": 4344,
+            "tiktok": 8145
+          }
+        },
+        {
+          "date": "2026-10-09",
+          "followers": 163609,
+          "reach": 55657,
+          "impressions": 79033,
+          "engagements": 3117,
+          "platformBreakdown": {
+            "linkedin": 9462,
+            "instagram": 13358,
+            "facebook": 6122,
+            "x": 6679,
+            "youtube": 7235,
+            "pinterest": 4453,
+            "tiktok": 8349
+          }
+        },
+        {
+          "date": "2026-10-10",
+          "followers": 164303,
+          "reach": 63687,
+          "impressions": 90436,
+          "engagements": 3821,
+          "platformBreakdown": {
+            "linkedin": 10827,
+            "instagram": 15285,
+            "facebook": 7006,
+            "x": 7642,
+            "youtube": 8279,
+            "pinterest": 5095,
+            "tiktok": 9553
+          }
+        },
+        {
+          "date": "2026-10-11",
+          "followers": 164988,
+          "reach": 62574,
+          "impressions": 88855,
+          "engagements": 4005,
+          "platformBreakdown": {
+            "linkedin": 10638,
+            "instagram": 15018,
+            "facebook": 6883,
+            "x": 7509,
+            "youtube": 8135,
+            "pinterest": 5006,
+            "tiktok": 9386
+          }
+        },
+        {
+          "date": "2026-10-12",
+          "followers": 165656,
+          "reach": 52876,
+          "impressions": 75084,
+          "engagements": 2538,
+          "platformBreakdown": {
+            "linkedin": 8989,
+            "instagram": 12690,
+            "facebook": 5816,
+            "x": 6345,
+            "youtube": 6874,
+            "pinterest": 4230,
+            "tiktok": 7931
+          }
+        },
+        {
+          "date": "2026-10-13",
+          "followers": 166301,
+          "reach": 50138,
+          "impressions": 71196,
+          "engagements": 2607,
+          "platformBreakdown": {
+            "linkedin": 8523,
+            "instagram": 12033,
+            "facebook": 5515,
+            "x": 6017,
+            "youtube": 6518,
+            "pinterest": 4011,
+            "tiktok": 7521
+          }
+        },
+        {
+          "date": "2026-10-14",
+          "followers": 166922,
+          "reach": 47109,
+          "impressions": 66895,
+          "engagements": 2638,
+          "platformBreakdown": {
+            "linkedin": 8009,
+            "instagram": 11306,
+            "facebook": 5182,
+            "x": 5653,
+            "youtube": 6124,
+            "pinterest": 3769,
+            "tiktok": 7066
+          }
+        },
+        {
+          "date": "2026-10-15",
+          "followers": 167519,
+          "reach": 44278,
+          "impressions": 62875,
+          "engagements": 2657,
+          "platformBreakdown": {
+            "linkedin": 7527,
+            "instagram": 10627,
+            "facebook": 4871,
+            "x": 5313,
+            "youtube": 5756,
+            "pinterest": 3542,
+            "tiktok": 6642
+          }
+        },
+        {
+          "date": "2026-10-16",
+          "followers": 168098,
+          "reach": 42123,
+          "impressions": 59815,
+          "engagements": 2696,
+          "platformBreakdown": {
+            "linkedin": 7161,
+            "instagram": 10110,
+            "facebook": 4634,
+            "x": 5055,
+            "youtube": 5476,
+            "pinterest": 3370,
+            "tiktok": 6318
+          }
+        },
+        {
+          "date": "2026-10-17",
+          "followers": 168667,
+          "reach": 46783,
+          "impressions": 66432,
+          "engagements": 2246,
+          "platformBreakdown": {
+            "linkedin": 7953,
+            "instagram": 11228,
+            "facebook": 5146,
+            "x": 5614,
+            "youtube": 6082,
+            "pinterest": 3743,
+            "tiktok": 7017
+          }
+        },
+        {
+          "date": "2026-10-18",
+          "followers": 169237,
+          "reach": 47055,
+          "impressions": 66818,
+          "engagements": 2447,
+          "platformBreakdown": {
+            "linkedin": 7999,
+            "instagram": 11293,
+            "facebook": 5176,
+            "x": 5647,
+            "youtube": 6117,
+            "pinterest": 3764,
+            "tiktok": 7058
+          }
+        },
+        {
+          "date": "2026-10-19",
+          "followers": 169818,
+          "reach": 42914,
+          "impressions": 60938,
+          "engagements": 2403,
+          "platformBreakdown": {
+            "linkedin": 7295,
+            "instagram": 10299,
+            "facebook": 4721,
+            "x": 5150,
+            "youtube": 5579,
+            "pinterest": 3433,
+            "tiktok": 6437
+          }
+        },
+        {
+          "date": "2026-10-20",
+          "followers": 170421,
+          "reach": 45832,
+          "impressions": 65081,
+          "engagements": 2750,
+          "platformBreakdown": {
+            "linkedin": 7791,
+            "instagram": 11000,
+            "facebook": 5042,
+            "x": 5500,
+            "youtube": 5958,
+            "pinterest": 3667,
+            "tiktok": 6875
+          }
+        },
+        {
+          "date": "2026-10-21",
+          "followers": 171053,
+          "reach": 49736,
+          "impressions": 70625,
+          "engagements": 3183,
+          "platformBreakdown": {
+            "linkedin": 8455,
+            "instagram": 11937,
+            "facebook": 5471,
+            "x": 5968,
+            "youtube": 6466,
+            "pinterest": 3979,
+            "tiktok": 7460
+          }
+        },
+        {
+          "date": "2026-10-22",
+          "followers": 171718,
+          "reach": 54192,
+          "impressions": 76953,
+          "engagements": 2601,
+          "platformBreakdown": {
+            "linkedin": 9213,
+            "instagram": 13006,
+            "facebook": 5961,
+            "x": 6503,
+            "youtube": 7045,
+            "pinterest": 4335,
+            "tiktok": 8129
+          }
+        },
+        {
+          "date": "2026-10-23",
+          "followers": 172417,
+          "reach": 58685,
+          "impressions": 83333,
+          "engagements": 3052,
+          "platformBreakdown": {
+            "linkedin": 9976,
+            "instagram": 14084,
+            "facebook": 6455,
+            "x": 7042,
+            "youtube": 7629,
+            "pinterest": 4695,
+            "tiktok": 8803
+          }
+        },
+        {
+          "date": "2026-10-24",
+          "followers": 173145,
+          "reach": 71470,
+          "impressions": 101487,
+          "engagements": 4002,
+          "platformBreakdown": {
+            "linkedin": 12150,
+            "instagram": 17153,
+            "facebook": 7862,
+            "x": 8576,
+            "youtube": 9291,
+            "pinterest": 5718,
+            "tiktok": 10721
+          }
+        },
+        {
+          "date": "2026-10-25",
+          "followers": 173896,
+          "reach": 74962,
+          "impressions": 106446,
+          "engagements": 4498,
+          "platformBreakdown": {
+            "linkedin": 12744,
+            "instagram": 17991,
+            "facebook": 8246,
+            "x": 8995,
+            "youtube": 9745,
+            "pinterest": 5997,
+            "tiktok": 11244
+          }
+        },
+        {
+          "date": "2026-10-26",
+          "followers": 174659,
+          "reach": 67539,
+          "impressions": 95905,
+          "engagements": 4322,
+          "platformBreakdown": {
+            "linkedin": 11482,
+            "instagram": 16209,
+            "facebook": 7429,
+            "x": 8105,
+            "youtube": 8780,
+            "pinterest": 5403,
+            "tiktok": 10131
+          }
+        },
+        {
+          "date": "2026-10-27",
+          "followers": 175424,
+          "reach": 67879,
+          "impressions": 96388,
+          "engagements": 3258,
+          "platformBreakdown": {
+            "linkedin": 11539,
+            "instagram": 16291,
+            "facebook": 7467,
+            "x": 8145,
+            "youtube": 8824,
+            "pinterest": 5430,
+            "tiktok": 10182
+          }
+        },
+        {
+          "date": "2026-10-28",
+          "followers": 176179,
+          "reach": 66807,
+          "impressions": 94866,
+          "engagements": 3474,
+          "platformBreakdown": {
+            "linkedin": 11357,
+            "instagram": 16034,
+            "facebook": 7349,
+            "x": 8017,
+            "youtube": 8685,
+            "pinterest": 5345,
+            "tiktok": 10021
+          }
+        },
+        {
+          "date": "2026-10-29",
+          "followers": 176915,
+          "reach": 64539,
+          "impressions": 91645,
+          "engagements": 3614,
+          "platformBreakdown": {
+            "linkedin": 10972,
+            "instagram": 15489,
+            "facebook": 7099,
+            "x": 7745,
+            "youtube": 8390,
+            "pinterest": 5163,
+            "tiktok": 9681
+          }
+        },
+        {
+          "date": "2026-10-30",
+          "followers": 177626,
+          "reach": 61447,
+          "impressions": 87255,
+          "engagements": 3687,
+          "platformBreakdown": {
+            "linkedin": 10446,
+            "instagram": 14747,
+            "facebook": 6759,
+            "x": 7374,
+            "youtube": 7988,
+            "pinterest": 4916,
+            "tiktok": 9217
+          }
+        },
+        {
+          "date": "2026-10-31",
+          "followers": 178309,
+          "reach": 66122,
+          "impressions": 93893,
+          "engagements": 4232,
+          "platformBreakdown": {
+            "linkedin": 11241,
+            "instagram": 15869,
+            "facebook": 7273,
+            "x": 7935,
+            "youtube": 8596,
+            "pinterest": 5290,
+            "tiktok": 9918
+          }
+        },
+        {
+          "date": "2026-11-01",
+          "followers": 178965,
+          "reach": 62371,
+          "impressions": 88567,
+          "engagements": 2994,
+          "platformBreakdown": {
+            "linkedin": 10603,
+            "instagram": 14969,
+            "facebook": 6861,
+            "x": 7485,
+            "youtube": 8108,
+            "pinterest": 4990,
+            "tiktok": 9356
+          }
+        },
+        {
+          "date": "2026-11-02",
+          "followers": 179599,
+          "reach": 52042,
+          "impressions": 73900,
+          "engagements": 2706,
+          "platformBreakdown": {
+            "linkedin": 8847,
+            "instagram": 12490,
+            "facebook": 5725,
+            "x": 6245,
+            "youtube": 6765,
+            "pinterest": 4163,
+            "tiktok": 7806
+          }
+        },
+        {
+          "date": "2026-11-03",
+          "followers": 180218,
+          "reach": 50358,
+          "impressions": 71508,
+          "engagements": 2820,
+          "platformBreakdown": {
+            "linkedin": 8561,
+            "instagram": 12086,
+            "facebook": 5539,
+            "x": 6043,
+            "youtube": 6547,
+            "pinterest": 4029,
+            "tiktok": 7554
+          }
+        },
+        {
+          "date": "2026-11-04",
+          "followers": 180832,
+          "reach": 49866,
+          "impressions": 70810,
+          "engagements": 2992,
+          "platformBreakdown": {
+            "linkedin": 8477,
+            "instagram": 11968,
+            "facebook": 5485,
+            "x": 5984,
+            "youtube": 6483,
+            "pinterest": 3989,
+            "tiktok": 7480
+          }
+        },
+        {
+          "date": "2026-11-05",
+          "followers": 181451,
+          "reach": 50592,
+          "impressions": 71841,
+          "engagements": 3238,
+          "platformBreakdown": {
+            "linkedin": 8601,
+            "instagram": 12142,
+            "facebook": 5565,
+            "x": 6071,
+            "youtube": 6577,
+            "pinterest": 4047,
+            "tiktok": 7589
+          }
+        },
+        {
+          "date": "2026-11-06",
+          "followers": 182082,
+          "reach": 52378,
+          "impressions": 74377,
+          "engagements": 2514,
+          "platformBreakdown": {
+            "linkedin": 8904,
+            "instagram": 12571,
+            "facebook": 5762,
+            "x": 6285,
+            "youtube": 6809,
+            "pinterest": 4190,
+            "tiktok": 7857
+          }
+        },
+        {
+          "date": "2026-11-07",
+          "followers": 182731,
+          "reach": 62588,
+          "impressions": 88875,
+          "engagements": 3255,
+          "platformBreakdown": {
+            "linkedin": 10640,
+            "instagram": 15021,
+            "facebook": 6885,
+            "x": 7511,
+            "youtube": 8136,
+            "pinterest": 5007,
+            "tiktok": 9388
+          }
+        },
+        {
+          "date": "2026-11-08",
+          "followers": 183401,
+          "reach": 65819,
+          "impressions": 93463,
+          "engagements": 3686,
+          "platformBreakdown": {
+            "linkedin": 11189,
+            "instagram": 15797,
+            "facebook": 7240,
+            "x": 7898,
+            "youtube": 8556,
+            "pinterest": 5266,
+            "tiktok": 9873
+          }
+        },
+        {
+          "date": "2026-11-09",
+          "followers": 184090,
+          "reach": 60400,
+          "impressions": 85768,
+          "engagements": 3624,
+          "platformBreakdown": {
+            "linkedin": 10268,
+            "instagram": 14496,
+            "facebook": 6644,
+            "x": 7248,
+            "youtube": 7852,
+            "pinterest": 4832,
+            "tiktok": 9060
+          }
+        },
+        {
+          "date": "2026-11-10",
+          "followers": 184794,
+          "reach": 62441,
+          "impressions": 88666,
+          "engagements": 3996,
+          "platformBreakdown": {
+            "linkedin": 10615,
+            "instagram": 14986,
+            "facebook": 6869,
+            "x": 7493,
+            "youtube": 8117,
+            "pinterest": 4995,
+            "tiktok": 9366
+          }
+        },
+        {
+          "date": "2026-11-11",
+          "followers": 185505,
+          "reach": 63496,
+          "impressions": 90164,
+          "engagements": 3048,
+          "platformBreakdown": {
+            "linkedin": 10794,
+            "instagram": 15239,
+            "facebook": 6985,
+            "x": 7620,
+            "youtube": 8254,
+            "pinterest": 5080,
+            "tiktok": 9524
+          }
+        },
+        {
+          "date": "2026-11-12",
+          "followers": 186213,
+          "reach": 63347,
+          "impressions": 89953,
+          "engagements": 3294,
+          "platformBreakdown": {
+            "linkedin": 10769,
+            "instagram": 15203,
+            "facebook": 6968,
+            "x": 7602,
+            "youtube": 8235,
+            "pinterest": 5068,
+            "tiktok": 9502
+          }
+        },
+        {
+          "date": "2026-11-13",
+          "followers": 186909,
+          "reach": 61957,
+          "impressions": 87979,
+          "engagements": 3470,
+          "platformBreakdown": {
+            "linkedin": 10533,
+            "instagram": 14870,
+            "facebook": 6815,
+            "x": 7435,
+            "youtube": 8054,
+            "pinterest": 4957,
+            "tiktok": 9294
+          }
+        },
+        {
+          "date": "2026-11-14",
+          "followers": 187585,
+          "reach": 67802,
+          "impressions": 96279,
+          "engagements": 4068,
+          "platformBreakdown": {
+            "linkedin": 11526,
+            "instagram": 16272,
+            "facebook": 7458,
+            "x": 8136,
+            "youtube": 8814,
+            "pinterest": 5424,
+            "tiktok": 10170
+          }
+        },
+        {
+          "date": "2026-11-15",
+          "followers": 188234,
+          "reach": 64091,
+          "impressions": 91009,
+          "engagements": 4102,
+          "platformBreakdown": {
+            "linkedin": 10895,
+            "instagram": 15382,
+            "facebook": 7050,
+            "x": 7691,
+            "youtube": 8332,
+            "pinterest": 5127,
+            "tiktok": 9614
+          }
+        }
+      ],
+      "insights": [
+        {
+          "id": "ins-sol-1",
+          "title": "Carousel ingredient breakdowns outperform single stills by 2.4x saves",
+          "platform": "instagram",
+          "impact": "High",
+          "metricTarget": "Save Rate & Shares",
+          "recommendation": "Lead frame 1 with the active percentage callout and reserve product beauty shots for slide 2.",
+          "suggestedTopic": "3 Reasons Bakuchiol Pairs Better With Ceramides Than Retinol Alone",
+          "bestWindow": "Tue & Thu · 11:00–13:00",
+          "predictedLiftPct": 34
+        },
+        {
+          "id": "ins-sol-2",
+          "title": "Founder formulation threads drive highest B2B profile clicks",
+          "platform": "linkedin",
+          "impact": "High",
+          "metricTarget": "Link CTR",
+          "recommendation": "Pair raw R&D packaging prototype photos with 3-bullet unit economics or refill impact metrics.",
+          "suggestedTopic": "Why We Switched Our 30ml Dropper to Amber Recycled Glass Despite +18% Freight Cost",
+          "bestWindow": "Wed · 09:00",
+          "predictedLiftPct": 28
+        },
+        {
+          "id": "ins-sol-3",
+          "title": "Vertical texture loops convert best at 9–14s duration on TikTok",
+          "platform": "tiktok",
+          "impact": "Medium",
+          "metricTarget": "3-Second Hold Rate",
+          "recommendation": "Open directly on the serum drop hitting warm stone with ambient sound before text overlay.",
+          "suggestedTopic": "10-Second Barrier Recovery Check After Cold Weather Flights",
+          "bestWindow": "Daily · 18:00–21:00",
+          "predictedLiftPct": 22
+        }
+      ],
+      "competitorReports": [
+        {
+          "id": "comp-1794764079680",
+          "createdAt": "2026-11-15T17:34:39.680Z",
+          "urls": [
+            "https://www.tiktok.com/@youthtothepeople"
+          ],
+          "competitors": [
+            {
+              "url": "https://www.tiktok.com/@youthtothepeople",
+              "name": "Youth To The People",
+              "handle": "@youthtothepeople",
+              "platform": "tiktok",
+              "avgEngagementRate": 3.8,
+              "postsPerWeek": 6,
+              "estimatedFollowers": "315K",
+              "contentThemes": [
+                "Superfood ingredient storytelling",
+                "ASMR product textures and glass packaging aesthetics",
+                "Creator GRWM and daily routine integrations",
+                "Sustainability and refillable initiatives",
+                "Pop-culture trendjacking and studio behind-the-scenes"
+              ],
+              "recentPostHighlights": [
+                "High-retention ASMR texture video highlighting the Superfood Cleanser lather and green-juice aesthetic",
+                "Creator partnership demonstrating a minimalist morning barrier-support routine",
+                "Short-form ingredient spotlight breaking down kale and green tea antioxidants using trending audio",
+                "Comment-reply video addressing hydration layering for combination skin"
+              ]
+            }
+          ],
+          "executiveSummary": "Youth To The People maintains a strong Gen-Z and millennial presence on TikTok by pairing vibrant superfood visuals, ASMR product demos, and high-frequency trend participation. While their lifestyle branding and sensory content drive solid engagement and brand affinity, their feed places less emphasis on rigorous dermatological validation and clinical efficacy data. Solstice Skincare can differentiate by positioning itself as the evidence-based clean beauty alternative, merging clean formulation transparency with accessible dermatologist-led education.",
+          "strengths": [
+            "Cohesive visual identity centered on green superfood aesthetics and recyclable glass packaging",
+            "Consistent posting cadence of roughly six videos per week that sustains algorithmic visibility",
+            "Strong use of tactile ASMR texture shots that drive high completion rates",
+            "Agile integration of trending TikTok audio and creator-led GRWM formats"
+          ],
+          "weaknesses": [
+            "Limited presence of board-certified dermatologists or clinical researchers on camera",
+            "Heavy content concentration around flagship hero SKUs rather than full-regimen clinical outcomes",
+            "Lower depth on complex dermatological concerns such as compromised barriers, rosacea, or post-acne hyperpigmentation",
+            "Entertainment-first hooks occasionally overshadow ingredient concentration and formulation science"
+          ],
+          "opportunitiesToCapitalize": [
+            "Launch a recurring Dermatologist Myth-Busting series to bridge clean beauty with clinical credibility",
+            "Publish transparent 4-week and 8-week clinical efficacy visual timelines for key active ingredients",
+            "Target high-intent skincare search queries on TikTok with step-by-step routine architecture for sensitive and reactive skin",
+            "Partner with skincare-literate micro-creators and estheticians to generate authentic ingredient-breakdown duets and stitches"
+          ]
+        },
+        {
+          "id": "comp-sol-seed",
+          "createdAt": "2026-11-14T15:00:00.000Z",
+          "urls": [
+            "https://www.instagram.com/summerfridays",
+            "https://www.tiktok.com/@rhode"
+          ],
+          "competitors": [
+            {
+              "url": "https://www.instagram.com/summerfridays",
+              "name": "Summer Fridays",
+              "handle": "@summerfridays",
+              "platform": "instagram",
+              "avgEngagementRate": 4.8,
+              "postsPerWeek": 6,
+              "estimatedFollowers": "1.1M",
+              "contentThemes": [
+                "Texture swatches",
+                "Holiday bundle unboxing",
+                "Creator routines"
+              ],
+              "recentPostHighlights": [
+                "Lip butter balm shade comparison carousel led with 4.2K saves",
+                "Minimalist vanity shelfie reel posted at 11:00 AM"
+              ]
+            },
+            {
+              "url": "https://www.tiktok.com/@rhode",
+              "name": "Rhode Skin",
+              "handle": "@rhode",
+              "platform": "tiktok",
+              "avgEngagementRate": 6.4,
+              "postsPerWeek": 8,
+              "estimatedFollowers": "1.9M",
+              "contentThemes": [
+                "10-second ASMR application",
+                "Behind-the-scenes shoot",
+                "Community duets"
+              ],
+              "recentPostHighlights": [
+                "Pocket blush 12-second morning commute clip hit high replay rate",
+                "Founder packing tutorial generated strong comment velocity"
+              ]
+            }
+          ],
+          "executiveSummary": "Top clean-beauty peers dominate high-frequency sensory clips on TikTok and lifestyle carousels on Instagram, yet rarely publish transparent clinical hydration benchmarks or refillable packaging unit data.",
+          "strengths": [
+            "Consistent 6–8x/week cadence keeps algorithmic recency high across Reels and TikTok.",
+            "Strong sensory texture close-ups create unmistakable feed recognition without heavy text overlays."
+          ],
+          "weaknesses": [
+            "Minimal dermatologist-backed efficacy education or before/after barrier metrics.",
+            "LinkedIn B2B storytelling and Pinterest evergreen ritual guides are largely under-indexed."
+          ],
+          "opportunitiesToCapitalize": [
+            "Own the \"Clinical Ingredient Transparency\" carousel lane on Instagram where saves outpace lifestyle stills.",
+            "Pair sensory 10-second TikTok texture clips with pinned dermatologist comment Q&As to differentiate on trust.",
+            "Scale LinkedIn founder & refillable packaging economics posts to capture retail buyer mindshare."
+          ]
+        }
+      ],
+      "ideaBatches": [
+        {
+          "id": "batch-sol-seed",
+          "createdAt": "2026-11-14T12:00:00.000Z",
+          "industry": "Clean Beauty & Dermatology",
+          "audienceInterests": "Skin barrier repair, ingredient layering, refillable packaging",
+          "platforms": [
+            "instagram",
+            "tiktok",
+            "linkedin"
+          ],
+          "ideas": [
+            {
+              "id": "idea-sol-1",
+              "title": "Barrier Math: 1% Bakuchiol vs Traditional Retinol",
+              "description": "5-slide minimalist infographic carousel comparing redness scores, barrier water loss, and AM/PM pairing rules.",
+              "format": "Carousel",
+              "platform": "instagram",
+              "trendAngle": "Skin-cycling simplification & gentle actives",
+              "audienceHook": "Save this before layering your winter actives."
+            },
+            {
+              "id": "idea-sol-2",
+              "title": "12-Second Cabin Air Moisture Seal Test",
+              "description": "Unfiltered macro video applying 3 drops of botanical serum over damp mist with ambient sound and crisp timer overlay.",
+              "format": "Video",
+              "platform": "tiktok",
+              "trendAngle": "Winter travel skincare prep",
+              "audienceHook": "How 3 drops hold hydration through a 6-hour flight."
+            },
+            {
+              "id": "idea-sol-3",
+              "title": "The True Unit Cost of Refillable Amber Glass",
+              "description": "Transparent LinkedIn breakdown of freight weight trade-offs, PCR glass sourcing, and 74% repeat refill retention.",
+              "format": "Infographic",
+              "platform": "linkedin",
+              "trendAngle": "Sustainable CPG unit economics",
+              "audienceHook": "Why we absorbed an 18% freight increase to eliminate single-use pumps."
+            },
+            {
+              "id": "idea-sol-4",
+              "title": "30-Second Pharmacist Shelf Audit",
+              "description": "Fast-cut short-form video reviewing three common winter moisturizer mistakes and the exact humectant order to fix them.",
+              "format": "Reel / Short",
+              "platform": "instagram",
+              "trendAngle": "De-influencing & minimalist 3-step routines",
+              "audienceHook": "You only need three steps when temperatures drop below freezing."
+            },
+            {
+              "id": "idea-sol-5",
+              "title": "Inside Our 28-Day Clinical Hydration Ledger",
+              "description": "Visual chart breakdown of transepidermal water loss results across 48 test panelists, linked to the full study summary.",
+              "format": "Infographic",
+              "platform": "linkedin",
+              "trendAngle": "Evidence-first clean beauty",
+              "audienceHook": "What 28 days of clinical barrier testing actually showed."
+            }
+          ]
+        }
+      ],
+      "forecasts": [
+        {
+          "id": "fc-sol-seed",
+          "createdAt": "2026-11-14T16:30:00.000Z",
+          "platform": "instagram",
+          "format": "Carousel",
+          "contentDescription": "5-slide clinical breakdown showing how ceramides + 1% bakuchiol reduce winter moisture loss by 31%, paired with travertine serum photography.",
+          "predictedReach": 56400,
+          "predictedLikes": 3680,
+          "predictedComments": 196,
+          "predictedShares": 445,
+          "predictedEngagementRate": 9.42,
+          "confidenceScore": 88,
+          "summary": "Strong save and share momentum expected; educational carousels on Solstice Skincare currently outperform single-image posts by 2.4x saves.",
+          "factors": [
+            {
+              "label": "Carousel Educational Format",
+              "impact": "Positive",
+              "detail": "Account history averages 9.81% ER on clinical ingredient carousels."
+            },
+            {
+              "label": "Specific Clinical Metric Hook",
+              "impact": "Positive",
+              "detail": "Leading with the 31% TEWL stat drives higher slide-2 swipe-through."
+            },
+            {
+              "label": "Peak Window Alignment",
+              "impact": "Neutral",
+              "detail": "Publishing Tue/Thu 11:00–13:00 maximizes early save velocity."
+            }
+          ]
+        }
+      ],
+      "brandAudits": [
+        {
+          "id": "audit-sol-seed",
+          "createdAt": "2026-11-14T10:00:00.000Z",
+          "input": {
+            "brandName": "Solstice Skincare",
+            "industry": "Clean Beauty & Dermatology",
+            "platforms": [
+              "linkedin",
+              "instagram",
+              "facebook",
+              "x",
+              "youtube",
+              "pinterest",
+              "tiktok"
+            ],
+            "followersTotal": 148200,
+            "postsPerMonth": 24,
+            "avgEngagementRate": 8.12,
+            "avgResponseHours": 4,
+            "bioClarityScore": 9,
+            "visualConsistencyScore": 9,
+            "contentMixSummary": "40% Reels/Shorts, 35% Educational Carousels, 25% Founder & Retail Updates",
+            "voiceAndAudienceNotes": "Evidence-led calm authority targeting ingredient-conscious buyers & retail editors."
+          },
+          "overallScore": 89,
+          "subScores": {
+            "consistency": 92,
+            "engagementHealth": 91,
+            "profileOptimization": 88,
+            "contentMix": 85
+          },
+          "verdict": "High-performing omnichannel presence with standout save rates and cohesive visual identity; expanding YouTube Shorts & Pinterest seasonal boards offers the highest incremental growth.",
+          "strengths": [
+            "8.12% average engagement rate significantly exceeds clean-beauty industry median (3.5–4.5%).",
+            "Fast 4-hour community reply cadence reinforces clinical credibility in comment threads."
+          ],
+          "gaps": [
+            "YouTube long-form & Shorts cadence trails Instagram/TikTok volume.",
+            "Weekend automated scheduling slots on Pinterest can capture higher seasonal gift-guide intent."
+          ],
+          "bestPractices": [
+            {
+              "category": "Short-Form Video",
+              "priority": "High",
+              "recommendation": "Cross-publish top-performing 15s TikTok texture clips natively to YouTube Shorts with keyword-rich titles.",
+              "expectedOutcome": "+25% non-follower discovery reach within 30 days."
+            },
+            {
+              "category": "Community Conversion",
+              "priority": "Medium",
+              "recommendation": "Pin a concise regimen FAQ comment on every clinical carousel with direct product batch links.",
+              "expectedOutcome": "+15% outbound link CTR from high-save posts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "proj-aether",
+      "name": "Aether Audio",
+      "industry": "Consumer Hardware & Acoustics",
+      "handle": "@aetheraudio",
+      "summary": "Studio Reference One wireless flagship campaign targeting audiophiles, producers, and design press.",
+      "connectedPlatforms": [
+        "linkedin",
+        "instagram",
+        "x",
+        "youtube",
+        "tiktok",
+        "facebook",
+        "pinterest"
+      ],
+      "followersTotal": 92400,
+      "followerGrowth30dPct": 11.2,
+      "autoScheduleEnabled": true,
+      "autoScheduleRules": [
+        {
+          "platform": "linkedin",
+          "enabled": true,
+          "preferredHours": [
+            9,
+            12,
+            16
+          ],
+          "weeklyTarget": 4
+        },
+        {
+          "platform": "instagram",
+          "enabled": true,
+          "preferredHours": [
+            11,
+            14,
+            19
+          ],
+          "weeklyTarget": 5
+        },
+        {
+          "platform": "facebook",
+          "enabled": true,
+          "preferredHours": [
+            10,
+            13,
+            18
+          ],
+          "weeklyTarget": 3
+        },
+        {
+          "platform": "x",
+          "enabled": true,
+          "preferredHours": [
+            8,
+            12,
+            17
+          ],
+          "weeklyTarget": 7
+        },
+        {
+          "platform": "youtube",
+          "enabled": true,
+          "preferredHours": [
+            14,
+            17
+          ],
+          "weeklyTarget": 2
+        },
+        {
+          "platform": "pinterest",
+          "enabled": true,
+          "preferredHours": [
+            15,
+            20
+          ],
+          "weeklyTarget": 4
+        },
+        {
+          "platform": "tiktok",
+          "enabled": true,
+          "preferredHours": [
+            12,
+            18,
+            21
+          ],
+          "weeklyTarget": 5
+        }
+      ],
+      "pillars": [
+        {
+          "id": "pil-aet-1",
+          "projectId": "proj-aether",
+          "name": "Acoustic Engineering",
+          "description": "Frequency response curves, driver architecture, and ANC lab benchmarks.",
+          "targetSharePct": 45,
+          "tone": "Technical, crisp, authoritative",
+          "audience": "Audio engineers, tech reviewers, YouTube & X hardware community"
+        },
+        {
+          "id": "pil-aet-2",
+          "projectId": "proj-aether",
+          "name": "Creator Studio Visits",
+          "description": "Behind-the-scenes mixing sessions with independent musicians.",
+          "targetSharePct": 35,
+          "tone": "Documentary, intimate, focused",
+          "audience": "Producers on Instagram, TikTok, and YouTube Shorts"
+        },
+        {
+          "id": "pil-aet-3",
+          "projectId": "proj-aether",
+          "name": "Industrial Design Craft",
+          "description": "Anodized aluminum machining and replaceable ear-pad longevity.",
+          "targetSharePct": 20,
+          "tone": "Minimalist, architectural",
+          "audience": "Design buyers on Pinterest and LinkedIn"
+        }
+      ],
+      "analyticsSeries": [
+        {
+          "date": "2026-08-18",
+          "followers": 81608,
+          "reach": 36459,
+          "impressions": 51772,
+          "engagements": 1750,
+          "platformBreakdown": {
+            "linkedin": 6198,
+            "instagram": 8750,
+            "facebook": 4010,
+            "x": 4375,
+            "youtube": 4740,
+            "pinterest": 2917,
+            "tiktok": 5469
+          }
+        },
+        {
+          "date": "2026-08-19",
+          "followers": 81997,
+          "reach": 33435,
+          "impressions": 47478,
+          "engagements": 1739,
+          "platformBreakdown": {
+            "linkedin": 5684,
+            "instagram": 8024,
+            "facebook": 3678,
+            "x": 4012,
+            "youtube": 4347,
+            "pinterest": 2675,
+            "tiktok": 5015
+          }
+        },
+        {
+          "date": "2026-08-20",
+          "followers": 82366,
+          "reach": 30287,
+          "impressions": 43008,
+          "engagements": 1696,
+          "platformBreakdown": {
+            "linkedin": 5149,
+            "instagram": 7269,
+            "facebook": 3332,
+            "x": 3634,
+            "youtube": 3937,
+            "pinterest": 2423,
+            "tiktok": 4543
+          }
+        },
+        {
+          "date": "2026-08-21",
+          "followers": 82717,
+          "reach": 27409,
+          "impressions": 38921,
+          "engagements": 1645,
+          "platformBreakdown": {
+            "linkedin": 4660,
+            "instagram": 6578,
+            "facebook": 3015,
+            "x": 3289,
+            "youtube": 3563,
+            "pinterest": 2193,
+            "tiktok": 4111
+          }
+        },
+        {
+          "date": "2026-08-22",
+          "followers": 83054,
+          "reach": 28678,
+          "impressions": 40723,
+          "engagements": 1835,
+          "platformBreakdown": {
+            "linkedin": 4875,
+            "instagram": 6883,
+            "facebook": 3155,
+            "x": 3441,
+            "youtube": 3728,
+            "pinterest": 2294,
+            "tiktok": 4302
+          }
+        },
+        {
+          "date": "2026-08-23",
+          "followers": 83382,
+          "reach": 27127,
+          "impressions": 38520,
+          "engagements": 1302,
+          "platformBreakdown": {
+            "linkedin": 4612,
+            "instagram": 6510,
+            "facebook": 2984,
+            "x": 3255,
+            "youtube": 3527,
+            "pinterest": 2170,
+            "tiktok": 4069
+          }
+        },
+        {
+          "date": "2026-08-24",
+          "followers": 83708,
+          "reach": 23471,
+          "impressions": 33329,
+          "engagements": 1220,
+          "platformBreakdown": {
+            "linkedin": 3990,
+            "instagram": 5633,
+            "facebook": 2582,
+            "x": 2817,
+            "youtube": 3051,
+            "pinterest": 1878,
+            "tiktok": 3521
+          }
+        },
+        {
+          "date": "2026-08-25",
+          "followers": 84037,
+          "reach": 24185,
+          "impressions": 34343,
+          "engagements": 1354,
+          "platformBreakdown": {
+            "linkedin": 4111,
+            "instagram": 5804,
+            "facebook": 2660,
+            "x": 2902,
+            "youtube": 3144,
+            "pinterest": 1935,
+            "tiktok": 3628
+          }
+        },
+        {
+          "date": "2026-08-26",
+          "followers": 84375,
+          "reach": 25798,
+          "impressions": 36633,
+          "engagements": 1548,
+          "platformBreakdown": {
+            "linkedin": 4386,
+            "instagram": 6192,
+            "facebook": 2838,
+            "x": 3096,
+            "youtube": 3354,
+            "pinterest": 2064,
+            "tiktok": 3870
+          }
+        },
+        {
+          "date": "2026-08-27",
+          "followers": 84726,
+          "reach": 28051,
+          "impressions": 39832,
+          "engagements": 1795,
+          "platformBreakdown": {
+            "linkedin": 4769,
+            "instagram": 6732,
+            "facebook": 3086,
+            "x": 3366,
+            "youtube": 3647,
+            "pinterest": 2244,
+            "tiktok": 4208
+          }
+        },
+        {
+          "date": "2026-08-28",
+          "followers": 85091,
+          "reach": 30607,
+          "impressions": 43462,
+          "engagements": 1469,
+          "platformBreakdown": {
+            "linkedin": 5203,
+            "instagram": 7346,
+            "facebook": 3367,
+            "x": 3673,
+            "youtube": 3979,
+            "pinterest": 2449,
+            "tiktok": 4591
+          }
+        },
+        {
+          "date": "2026-08-29",
+          "followers": 85470,
+          "reach": 37726,
+          "impressions": 53571,
+          "engagements": 1962,
+          "platformBreakdown": {
+            "linkedin": 6413,
+            "instagram": 9054,
+            "facebook": 4150,
+            "x": 4527,
+            "youtube": 4904,
+            "pinterest": 3018,
+            "tiktok": 5659
+          }
+        },
+        {
+          "date": "2026-08-30",
+          "followers": 85861,
+          "reach": 40084,
+          "impressions": 56919,
+          "engagements": 2245,
+          "platformBreakdown": {
+            "linkedin": 6814,
+            "instagram": 9620,
+            "facebook": 4409,
+            "x": 4810,
+            "youtube": 5211,
+            "pinterest": 3207,
+            "tiktok": 6013
+          }
+        },
+        {
+          "date": "2026-08-31",
+          "followers": 86259,
+          "reach": 36536,
+          "impressions": 51881,
+          "engagements": 2192,
+          "platformBreakdown": {
+            "linkedin": 6211,
+            "instagram": 8769,
+            "facebook": 4019,
+            "x": 4384,
+            "youtube": 4750,
+            "pinterest": 2923,
+            "tiktok": 5480
+          }
+        },
+        {
+          "date": "2026-09-01",
+          "followers": 86660,
+          "reach": 37050,
+          "impressions": 52611,
+          "engagements": 2371,
+          "platformBreakdown": {
+            "linkedin": 6299,
+            "instagram": 8892,
+            "facebook": 4076,
+            "x": 4446,
+            "youtube": 4817,
+            "pinterest": 2964,
+            "tiktok": 5558
+          }
+        },
+        {
+          "date": "2026-09-02",
+          "followers": 87058,
+          "reach": 36674,
+          "impressions": 52077,
+          "engagements": 1760,
+          "platformBreakdown": {
+            "linkedin": 6235,
+            "instagram": 8802,
+            "facebook": 4034,
+            "x": 4401,
+            "youtube": 4768,
+            "pinterest": 2934,
+            "tiktok": 5501
+          }
+        },
+        {
+          "date": "2026-09-03",
+          "followers": 87448,
+          "reach": 35516,
+          "impressions": 50433,
+          "engagements": 1847,
+          "platformBreakdown": {
+            "linkedin": 6038,
+            "instagram": 8524,
+            "facebook": 3907,
+            "x": 4262,
+            "youtube": 4617,
+            "pinterest": 2841,
+            "tiktok": 5327
+          }
+        },
+        {
+          "date": "2026-09-04",
+          "followers": 87827,
+          "reach": 33806,
+          "impressions": 48005,
+          "engagements": 1893,
+          "platformBreakdown": {
+            "linkedin": 5747,
+            "instagram": 8113,
+            "facebook": 3719,
+            "x": 4057,
+            "youtube": 4395,
+            "pinterest": 2704,
+            "tiktok": 5071
+          }
+        },
+        {
+          "date": "2026-09-05",
+          "followers": 88194,
+          "reach": 36322,
+          "impressions": 51577,
+          "engagements": 2179,
+          "platformBreakdown": {
+            "linkedin": 6175,
+            "instagram": 8717,
+            "facebook": 3995,
+            "x": 4359,
+            "youtube": 4722,
+            "pinterest": 2906,
+            "tiktok": 5448
+          }
+        },
+        {
+          "date": "2026-09-06",
+          "followers": 88549,
+          "reach": 34247,
+          "impressions": 48631,
+          "engagements": 2192,
+          "platformBreakdown": {
+            "linkedin": 5822,
+            "instagram": 8219,
+            "facebook": 3767,
+            "x": 4110,
+            "youtube": 4452,
+            "pinterest": 2740,
+            "tiktok": 5137
+          }
+        },
+        {
+          "date": "2026-09-07",
+          "followers": 88895,
+          "reach": 28691,
+          "impressions": 40741,
+          "engagements": 1377,
+          "platformBreakdown": {
+            "linkedin": 4877,
+            "instagram": 6886,
+            "facebook": 3156,
+            "x": 3443,
+            "youtube": 3730,
+            "pinterest": 2295,
+            "tiktok": 4304
+          }
+        },
+        {
+          "date": "2026-09-08",
+          "followers": 89237,
+          "reach": 28094,
+          "impressions": 39893,
+          "engagements": 1461,
+          "platformBreakdown": {
+            "linkedin": 4776,
+            "instagram": 6743,
+            "facebook": 3090,
+            "x": 3371,
+            "youtube": 3652,
+            "pinterest": 2248,
+            "tiktok": 4214
+          }
+        },
+        {
+          "date": "2026-09-09",
+          "followers": 89580,
+          "reach": 28428,
+          "impressions": 40368,
+          "engagements": 1592,
+          "platformBreakdown": {
+            "linkedin": 4833,
+            "instagram": 6823,
+            "facebook": 3127,
+            "x": 3411,
+            "youtube": 3696,
+            "pinterest": 2274,
+            "tiktok": 4264
+          }
+        },
+        {
+          "date": "2026-09-10",
+          "followers": 89930,
+          "reach": 29736,
+          "impressions": 42225,
+          "engagements": 1784,
+          "platformBreakdown": {
+            "linkedin": 5055,
+            "instagram": 7137,
+            "facebook": 3271,
+            "x": 3568,
+            "youtube": 3866,
+            "pinterest": 2379,
+            "tiktok": 4460
+          }
+        },
+        {
+          "date": "2026-09-11",
+          "followers": 90292,
+          "reach": 31920,
+          "impressions": 45326,
+          "engagements": 2043,
+          "platformBreakdown": {
+            "linkedin": 5426,
+            "instagram": 7661,
+            "facebook": 3511,
+            "x": 3830,
+            "youtube": 4150,
+            "pinterest": 2554,
+            "tiktok": 4788
+          }
+        },
+        {
+          "date": "2026-09-12",
+          "followers": 90671,
+          "reach": 39618,
+          "impressions": 56258,
+          "engagements": 1902,
+          "platformBreakdown": {
+            "linkedin": 6735,
+            "instagram": 9508,
+            "facebook": 4358,
+            "x": 4754,
+            "youtube": 5150,
+            "pinterest": 3169,
+            "tiktok": 5943
+          }
+        },
+        {
+          "date": "2026-09-13",
+          "followers": 91068,
+          "reach": 43213,
+          "impressions": 61362,
+          "engagements": 2247,
+          "platformBreakdown": {
+            "linkedin": 7346,
+            "instagram": 10371,
+            "facebook": 4753,
+            "x": 5186,
+            "youtube": 5618,
+            "pinterest": 3457,
+            "tiktok": 6482
+          }
+        },
+        {
+          "date": "2026-09-14",
+          "followers": 91482,
+          "reach": 41000,
+          "impressions": 58220,
+          "engagements": 2296,
+          "platformBreakdown": {
+            "linkedin": 6970,
+            "instagram": 9840,
+            "facebook": 4510,
+            "x": 4920,
+            "youtube": 5330,
+            "pinterest": 3280,
+            "tiktok": 6150
+          }
+        },
+        {
+          "date": "2026-09-15",
+          "followers": 91912,
+          "reach": 43652,
+          "impressions": 61986,
+          "engagements": 2619,
+          "platformBreakdown": {
+            "linkedin": 7421,
+            "instagram": 10476,
+            "facebook": 4802,
+            "x": 5238,
+            "youtube": 5675,
+            "pinterest": 3492,
+            "tiktok": 6548
+          }
+        },
+        {
+          "date": "2026-09-16",
+          "followers": 92352,
+          "reach": 45532,
+          "impressions": 64655,
+          "engagements": 2914,
+          "platformBreakdown": {
+            "linkedin": 7740,
+            "instagram": 10928,
+            "facebook": 5009,
+            "x": 5464,
+            "youtube": 5919,
+            "pinterest": 3643,
+            "tiktok": 6830
+          }
+        },
+        {
+          "date": "2026-09-17",
+          "followers": 92796,
+          "reach": 46407,
+          "impressions": 65898,
+          "engagements": 2228,
+          "platformBreakdown": {
+            "linkedin": 7889,
+            "instagram": 11138,
+            "facebook": 5105,
+            "x": 5569,
+            "youtube": 6033,
+            "pinterest": 3713,
+            "tiktok": 6961
+          }
+        },
+        {
+          "date": "2026-09-18",
+          "followers": 93238,
+          "reach": 46177,
+          "impressions": 65571,
+          "engagements": 2401,
+          "platformBreakdown": {
+            "linkedin": 7850,
+            "instagram": 11082,
+            "facebook": 5079,
+            "x": 5541,
+            "youtube": 6003,
+            "pinterest": 3694,
+            "tiktok": 6927
+          }
+        },
+        {
+          "date": "2026-09-19",
+          "followers": 93672,
+          "reach": 51171,
+          "impressions": 72663,
+          "engagements": 2866,
+          "platformBreakdown": {
+            "linkedin": 8699,
+            "instagram": 12281,
+            "facebook": 5629,
+            "x": 6141,
+            "youtube": 6652,
+            "pinterest": 4094,
+            "tiktok": 7676
+          }
+        },
+        {
+          "date": "2026-09-20",
+          "followers": 94092,
+          "reach": 48699,
+          "impressions": 69153,
+          "engagements": 2922,
+          "platformBreakdown": {
+            "linkedin": 8279,
+            "instagram": 11688,
+            "facebook": 5357,
+            "x": 5844,
+            "youtube": 6331,
+            "pinterest": 3896,
+            "tiktok": 7305
+          }
+        },
+        {
+          "date": "2026-09-21",
+          "followers": 94495,
+          "reach": 39968,
+          "impressions": 56755,
+          "engagements": 2558,
+          "platformBreakdown": {
+            "linkedin": 6795,
+            "instagram": 9592,
+            "facebook": 4396,
+            "x": 4796,
+            "youtube": 5196,
+            "pinterest": 3197,
+            "tiktok": 5995
+          }
+        },
+        {
+          "date": "2026-09-22",
+          "followers": 94880,
+          "reach": 37006,
+          "impressions": 52549,
+          "engagements": 1776,
+          "platformBreakdown": {
+            "linkedin": 6291,
+            "instagram": 8881,
+            "facebook": 4071,
+            "x": 4441,
+            "youtube": 4811,
+            "pinterest": 2960,
+            "tiktok": 5551
+          }
+        },
+        {
+          "date": "2026-09-23",
+          "followers": 95247,
+          "reach": 34221,
+          "impressions": 48594,
+          "engagements": 1779,
+          "platformBreakdown": {
+            "linkedin": 5818,
+            "instagram": 8213,
+            "facebook": 3764,
+            "x": 4107,
+            "youtube": 4449,
+            "pinterest": 2738,
+            "tiktok": 5133
+          }
+        },
+        {
+          "date": "2026-09-24",
+          "followers": 95600,
+          "reach": 31968,
+          "impressions": 45395,
+          "engagements": 1790,
+          "platformBreakdown": {
+            "linkedin": 5435,
+            "instagram": 7672,
+            "facebook": 3516,
+            "x": 3836,
+            "youtube": 4156,
+            "pinterest": 2557,
+            "tiktok": 4795
+          }
+        },
+        {
+          "date": "2026-09-25",
+          "followers": 95943,
+          "reach": 30522,
+          "impressions": 43341,
+          "engagements": 1831,
+          "platformBreakdown": {
+            "linkedin": 5189,
+            "instagram": 7325,
+            "facebook": 3357,
+            "x": 3663,
+            "youtube": 3968,
+            "pinterest": 2442,
+            "tiktok": 4578
+          }
+        },
+        {
+          "date": "2026-09-26",
+          "followers": 96283,
+          "reach": 34241,
+          "impressions": 48622,
+          "engagements": 2191,
+          "platformBreakdown": {
+            "linkedin": 5821,
+            "instagram": 8218,
+            "facebook": 3767,
+            "x": 4109,
+            "youtube": 4451,
+            "pinterest": 2739,
+            "tiktok": 5136
+          }
+        },
+        {
+          "date": "2026-09-27",
+          "followers": 96625,
+          "reach": 34797,
+          "impressions": 49412,
+          "engagements": 1670,
+          "platformBreakdown": {
+            "linkedin": 5915,
+            "instagram": 8351,
+            "facebook": 3828,
+            "x": 4176,
+            "youtube": 4524,
+            "pinterest": 2784,
+            "tiktok": 5220
+          }
+        },
+        {
+          "date": "2026-09-28",
+          "followers": 96974,
+          "reach": 31860,
+          "impressions": 45241,
+          "engagements": 1657,
+          "platformBreakdown": {
+            "linkedin": 5416,
+            "instagram": 7646,
+            "facebook": 3505,
+            "x": 3823,
+            "youtube": 4142,
+            "pinterest": 2549,
+            "tiktok": 4779
+          }
+        },
+        {
+          "date": "2026-09-29",
+          "followers": 97334,
+          "reach": 33802,
+          "impressions": 47999,
+          "engagements": 1893,
+          "platformBreakdown": {
+            "linkedin": 5746,
+            "instagram": 8112,
+            "facebook": 3718,
+            "x": 4056,
+            "youtube": 4394,
+            "pinterest": 2704,
+            "tiktok": 5070
+          }
+        },
+        {
+          "date": "2026-09-30",
+          "followers": 97707,
+          "reach": 36021,
+          "impressions": 51150,
+          "engagements": 2161,
+          "platformBreakdown": {
+            "linkedin": 6124,
+            "instagram": 8645,
+            "facebook": 3962,
+            "x": 4323,
+            "youtube": 4683,
+            "pinterest": 2882,
+            "tiktok": 5403
+          }
+        },
+        {
+          "date": "2026-10-01",
+          "followers": 98092,
+          "reach": 38157,
+          "impressions": 54183,
+          "engagements": 2442,
+          "platformBreakdown": {
+            "linkedin": 6487,
+            "instagram": 9158,
+            "facebook": 4197,
+            "x": 4579,
+            "youtube": 4960,
+            "pinterest": 3053,
+            "tiktok": 5724
+          }
+        },
+        {
+          "date": "2026-10-02",
+          "followers": 98486,
+          "reach": 39867,
+          "impressions": 56611,
+          "engagements": 1914,
+          "platformBreakdown": {
+            "linkedin": 6777,
+            "instagram": 9568,
+            "facebook": 4385,
+            "x": 4784,
+            "youtube": 5183,
+            "pinterest": 3189,
+            "tiktok": 5980
+          }
+        },
+        {
+          "date": "2026-10-03",
+          "followers": 98885,
+          "reach": 46605,
+          "impressions": 66179,
+          "engagements": 2423,
+          "platformBreakdown": {
+            "linkedin": 7923,
+            "instagram": 11185,
+            "facebook": 5127,
+            "x": 5593,
+            "youtube": 6059,
+            "pinterest": 3728,
+            "tiktok": 6991
+          }
+        },
+        {
+          "date": "2026-10-04",
+          "followers": 99284,
+          "reach": 46783,
+          "impressions": 66432,
+          "engagements": 2620,
+          "platformBreakdown": {
+            "linkedin": 7953,
+            "instagram": 11228,
+            "facebook": 5146,
+            "x": 5614,
+            "youtube": 6082,
+            "pinterest": 3743,
+            "tiktok": 7017
+          }
+        },
+        {
+          "date": "2026-10-05",
+          "followers": 99678,
+          "reach": 40307,
+          "impressions": 57236,
+          "engagements": 2418,
+          "platformBreakdown": {
+            "linkedin": 6852,
+            "instagram": 9674,
+            "facebook": 4434,
+            "x": 4837,
+            "youtube": 5240,
+            "pinterest": 3225,
+            "tiktok": 6046
+          }
+        },
+        {
+          "date": "2026-10-06",
+          "followers": 100063,
+          "reach": 38800,
+          "impressions": 55096,
+          "engagements": 2483,
+          "platformBreakdown": {
+            "linkedin": 6596,
+            "instagram": 9312,
+            "facebook": 4268,
+            "x": 4656,
+            "youtube": 5044,
+            "pinterest": 3104,
+            "tiktok": 5820
+          }
+        },
+        {
+          "date": "2026-10-07",
+          "followers": 100435,
+          "reach": 36752,
+          "impressions": 52188,
+          "engagements": 1764,
+          "platformBreakdown": {
+            "linkedin": 6248,
+            "instagram": 8820,
+            "facebook": 4043,
+            "x": 4410,
+            "youtube": 4778,
+            "pinterest": 2940,
+            "tiktok": 5513
+          }
+        },
+        {
+          "date": "2026-10-08",
+          "followers": 100792,
+          "reach": 34485,
+          "impressions": 48969,
+          "engagements": 1793,
+          "platformBreakdown": {
+            "linkedin": 5862,
+            "instagram": 8276,
+            "facebook": 3793,
+            "x": 4138,
+            "youtube": 4483,
+            "pinterest": 2759,
+            "tiktok": 5173
+          }
+        },
+        {
+          "date": "2026-10-09",
+          "followers": 101136,
+          "reach": 32367,
+          "impressions": 45961,
+          "engagements": 1813,
+          "platformBreakdown": {
+            "linkedin": 5502,
+            "instagram": 7768,
+            "facebook": 3560,
+            "x": 3884,
+            "youtube": 4208,
+            "pinterest": 2589,
+            "tiktok": 4855
+          }
+        },
+        {
+          "date": "2026-10-10",
+          "followers": 101469,
+          "reach": 35060,
+          "impressions": 49785,
+          "engagements": 2104,
+          "platformBreakdown": {
+            "linkedin": 5960,
+            "instagram": 8414,
+            "facebook": 3857,
+            "x": 4207,
+            "youtube": 4558,
+            "pinterest": 2805,
+            "tiktok": 5259
+          }
+        },
+        {
+          "date": "2026-10-11",
+          "followers": 101797,
+          "reach": 34134,
+          "impressions": 48470,
+          "engagements": 2185,
+          "platformBreakdown": {
+            "linkedin": 5803,
+            "instagram": 8192,
+            "facebook": 3755,
+            "x": 4096,
+            "youtube": 4437,
+            "pinterest": 2731,
+            "tiktok": 5120
+          }
+        },
+        {
+          "date": "2026-10-12",
+          "followers": 102125,
+          "reach": 30121,
+          "impressions": 42772,
+          "engagements": 1446,
+          "platformBreakdown": {
+            "linkedin": 5121,
+            "instagram": 7229,
+            "facebook": 3313,
+            "x": 3615,
+            "youtube": 3916,
+            "pinterest": 2410,
+            "tiktok": 4518
+          }
+        },
+        {
+          "date": "2026-10-13",
+          "followers": 102460,
+          "reach": 31346,
+          "impressions": 44511,
+          "engagements": 1630,
+          "platformBreakdown": {
+            "linkedin": 5329,
+            "instagram": 7523,
+            "facebook": 3448,
+            "x": 3762,
+            "youtube": 4075,
+            "pinterest": 2508,
+            "tiktok": 4702
+          }
+        },
+        {
+          "date": "2026-10-14",
+          "followers": 102807,
+          "reach": 33530,
+          "impressions": 47613,
+          "engagements": 1878,
+          "platformBreakdown": {
+            "linkedin": 5700,
+            "instagram": 8047,
+            "facebook": 3688,
+            "x": 4024,
+            "youtube": 4359,
+            "pinterest": 2682,
+            "tiktok": 5030
+          }
+        },
+        {
+          "date": "2026-10-15",
+          "followers": 103171,
+          "reach": 36451,
+          "impressions": 51760,
+          "engagements": 2187,
+          "platformBreakdown": {
+            "linkedin": 6197,
+            "instagram": 8748,
+            "facebook": 4010,
+            "x": 4374,
+            "youtube": 4739,
+            "pinterest": 2916,
+            "tiktok": 5468
+          }
+        },
+        {
+          "date": "2026-10-16",
+          "followers": 103554,
+          "reach": 39785,
+          "impressions": 56495,
+          "engagements": 2546,
+          "platformBreakdown": {
+            "linkedin": 6763,
+            "instagram": 9548,
+            "facebook": 4376,
+            "x": 4774,
+            "youtube": 5172,
+            "pinterest": 3183,
+            "tiktok": 5968
+          }
+        },
+        {
+          "date": "2026-10-17",
+          "followers": 103956,
+          "reach": 49188,
+          "impressions": 69847,
+          "engagements": 2361,
+          "platformBreakdown": {
+            "linkedin": 8362,
+            "instagram": 11805,
+            "facebook": 5411,
+            "x": 5903,
+            "youtube": 6394,
+            "pinterest": 3935,
+            "tiktok": 7378
+          }
+        },
+        {
+          "date": "2026-10-18",
+          "followers": 104375,
+          "reach": 52607,
+          "impressions": 74702,
+          "engagements": 2736,
+          "platformBreakdown": {
+            "linkedin": 8943,
+            "instagram": 12626,
+            "facebook": 5787,
+            "x": 6313,
+            "youtube": 6839,
+            "pinterest": 4209,
+            "tiktok": 7891
+          }
+        },
+        {
+          "date": "2026-10-19",
+          "followers": 104807,
+          "reach": 48438,
+          "impressions": 68782,
+          "engagements": 2713,
+          "platformBreakdown": {
+            "linkedin": 8234,
+            "instagram": 11625,
+            "facebook": 5328,
+            "x": 5813,
+            "youtube": 6297,
+            "pinterest": 3875,
+            "tiktok": 7266
+          }
+        },
+        {
+          "date": "2026-10-20",
+          "followers": 105246,
+          "reach": 49772,
+          "impressions": 70676,
+          "engagements": 2986,
+          "platformBreakdown": {
+            "linkedin": 8461,
+            "instagram": 11945,
+            "facebook": 5475,
+            "x": 5973,
+            "youtube": 6470,
+            "pinterest": 3982,
+            "tiktok": 7466
+          }
+        },
+        {
+          "date": "2026-10-21",
+          "followers": 105686,
+          "reach": 50027,
+          "impressions": 71038,
+          "engagements": 3202,
+          "platformBreakdown": {
+            "linkedin": 8505,
+            "instagram": 12006,
+            "facebook": 5503,
+            "x": 6003,
+            "youtube": 6504,
+            "pinterest": 4002,
+            "tiktok": 7504
+          }
+        },
+        {
+          "date": "2026-10-22",
+          "followers": 106121,
+          "reach": 49224,
+          "impressions": 69898,
+          "engagements": 2363,
+          "platformBreakdown": {
+            "linkedin": 8368,
+            "instagram": 11814,
+            "facebook": 5415,
+            "x": 5907,
+            "youtube": 6399,
+            "pinterest": 3938,
+            "tiktok": 7384
+          }
+        },
+        {
+          "date": "2026-10-23",
+          "followers": 106545,
+          "reach": 47527,
+          "impressions": 67488,
+          "engagements": 2471,
+          "platformBreakdown": {
+            "linkedin": 8080,
+            "instagram": 11406,
+            "facebook": 5228,
+            "x": 5703,
+            "youtube": 6179,
+            "pinterest": 3802,
+            "tiktok": 7129
+          }
+        },
+        {
+          "date": "2026-10-24",
+          "followers": 106954,
+          "reach": 51543,
+          "impressions": 73191,
+          "engagements": 2886,
+          "platformBreakdown": {
+            "linkedin": 8762,
+            "instagram": 12370,
+            "facebook": 5670,
+            "x": 6185,
+            "youtube": 6701,
+            "pinterest": 4123,
+            "tiktok": 7731
+          }
+        },
+        {
+          "date": "2026-10-25",
+          "followers": 107347,
+          "reach": 48605,
+          "impressions": 69019,
+          "engagements": 2916,
+          "platformBreakdown": {
+            "linkedin": 8263,
+            "instagram": 11665,
+            "facebook": 5347,
+            "x": 5833,
+            "youtube": 6319,
+            "pinterest": 3888,
+            "tiktok": 7291
+          }
+        },
+        {
+          "date": "2026-10-26",
+          "followers": 107725,
+          "reach": 40174,
+          "impressions": 57047,
+          "engagements": 2571,
+          "platformBreakdown": {
+            "linkedin": 6830,
+            "instagram": 9642,
+            "facebook": 4419,
+            "x": 4821,
+            "youtube": 5223,
+            "pinterest": 3214,
+            "tiktok": 6026
+          }
+        },
+        {
+          "date": "2026-10-27",
+          "followers": 108090,
+          "reach": 38177,
+          "impressions": 54211,
+          "engagements": 1832,
+          "platformBreakdown": {
+            "linkedin": 6490,
+            "instagram": 9162,
+            "facebook": 4199,
+            "x": 4581,
+            "youtube": 4963,
+            "pinterest": 3054,
+            "tiktok": 5727
+          }
+        },
+        {
+          "date": "2026-10-28",
+          "followers": 108447,
+          "reach": 36916,
+          "impressions": 52421,
+          "engagements": 1920,
+          "platformBreakdown": {
+            "linkedin": 6276,
+            "instagram": 8860,
+            "facebook": 4061,
+            "x": 4430,
+            "youtube": 4799,
+            "pinterest": 2953,
+            "tiktok": 5537
+          }
+        },
+        {
+          "date": "2026-10-29",
+          "followers": 108801,
+          "reach": 36548,
+          "impressions": 51898,
+          "engagements": 2047,
+          "platformBreakdown": {
+            "linkedin": 6213,
+            "instagram": 8772,
+            "facebook": 4020,
+            "x": 4386,
+            "youtube": 4751,
+            "pinterest": 2924,
+            "tiktok": 5482
+          }
+        },
+        {
+          "date": "2026-10-30",
+          "followers": 109157,
+          "reach": 37092,
+          "impressions": 52671,
+          "engagements": 2226,
+          "platformBreakdown": {
+            "linkedin": 6306,
+            "instagram": 8902,
+            "facebook": 4080,
+            "x": 4451,
+            "youtube": 4822,
+            "pinterest": 2967,
+            "tiktok": 5564
+          }
+        },
+        {
+          "date": "2026-10-31",
+          "followers": 109520,
+          "reach": 43807,
+          "impressions": 62206,
+          "engagements": 2804,
+          "platformBreakdown": {
+            "linkedin": 7447,
+            "instagram": 10514,
+            "facebook": 4819,
+            "x": 5257,
+            "youtube": 5695,
+            "pinterest": 3505,
+            "tiktok": 6571
+          }
+        },
+        {
+          "date": "2026-11-01",
+          "followers": 109894,
+          "reach": 45961,
+          "impressions": 65265,
+          "engagements": 2206,
+          "platformBreakdown": {
+            "linkedin": 7813,
+            "instagram": 11031,
+            "facebook": 5056,
+            "x": 5515,
+            "youtube": 5975,
+            "pinterest": 3677,
+            "tiktok": 6894
+          }
+        },
+        {
+          "date": "2026-11-02",
+          "followers": 110280,
+          "reach": 42437,
+          "impressions": 60261,
+          "engagements": 2207,
+          "platformBreakdown": {
+            "linkedin": 7214,
+            "instagram": 10185,
+            "facebook": 4668,
+            "x": 5092,
+            "youtube": 5517,
+            "pinterest": 3395,
+            "tiktok": 6366
+          }
+        },
+        {
+          "date": "2026-11-03",
+          "followers": 110677,
+          "reach": 44430,
+          "impressions": 63091,
+          "engagements": 2488,
+          "platformBreakdown": {
+            "linkedin": 7553,
+            "instagram": 10663,
+            "facebook": 4887,
+            "x": 5332,
+            "youtube": 5776,
+            "pinterest": 3554,
+            "tiktok": 6665
+          }
+        },
+        {
+          "date": "2026-11-04",
+          "followers": 111082,
+          "reach": 45957,
+          "impressions": 65259,
+          "engagements": 2757,
+          "platformBreakdown": {
+            "linkedin": 7813,
+            "instagram": 11030,
+            "facebook": 5055,
+            "x": 5515,
+            "youtube": 5974,
+            "pinterest": 3677,
+            "tiktok": 6894
+          }
+        },
+        {
+          "date": "2026-11-05",
+          "followers": 111491,
+          "reach": 46747,
+          "impressions": 66381,
+          "engagements": 2992,
+          "platformBreakdown": {
+            "linkedin": 7947,
+            "instagram": 11219,
+            "facebook": 5142,
+            "x": 5610,
+            "youtube": 6077,
+            "pinterest": 3740,
+            "tiktok": 7012
+          }
+        },
+        {
+          "date": "2026-11-06",
+          "followers": 111899,
+          "reach": 46635,
+          "impressions": 66222,
+          "engagements": 2238,
+          "platformBreakdown": {
+            "linkedin": 7928,
+            "instagram": 11192,
+            "facebook": 5130,
+            "x": 5596,
+            "youtube": 6063,
+            "pinterest": 3731,
+            "tiktok": 6995
+          }
+        },
+        {
+          "date": "2026-11-07",
+          "followers": 112300,
+          "reach": 51979,
+          "impressions": 73810,
+          "engagements": 2703,
+          "platformBreakdown": {
+            "linkedin": 8836,
+            "instagram": 12475,
+            "facebook": 5718,
+            "x": 6237,
+            "youtube": 6757,
+            "pinterest": 4158,
+            "tiktok": 7797
+          }
+        },
+        {
+          "date": "2026-11-08",
+          "followers": 112689,
+          "reach": 49862,
+          "impressions": 70804,
+          "engagements": 2792,
+          "platformBreakdown": {
+            "linkedin": 8477,
+            "instagram": 11967,
+            "facebook": 5485,
+            "x": 5983,
+            "youtube": 6482,
+            "pinterest": 3989,
+            "tiktok": 7479
+          }
+        },
+        {
+          "date": "2026-11-09",
+          "followers": 113063,
+          "reach": 41303,
+          "impressions": 58650,
+          "engagements": 2478,
+          "platformBreakdown": {
+            "linkedin": 7022,
+            "instagram": 9913,
+            "facebook": 4543,
+            "x": 4956,
+            "youtube": 5369,
+            "pinterest": 3304,
+            "tiktok": 6195
+          }
+        },
+        {
+          "date": "2026-11-10",
+          "followers": 113420,
+          "reach": 38619,
+          "impressions": 54839,
+          "engagements": 2472,
+          "platformBreakdown": {
+            "linkedin": 6565,
+            "instagram": 9269,
+            "facebook": 4248,
+            "x": 4634,
+            "youtube": 5020,
+            "pinterest": 3090,
+            "tiktok": 5793
+          }
+        },
+        {
+          "date": "2026-11-11",
+          "followers": 113761,
+          "reach": 36064,
+          "impressions": 51211,
+          "engagements": 1731,
+          "platformBreakdown": {
+            "linkedin": 6131,
+            "instagram": 8655,
+            "facebook": 3967,
+            "x": 4328,
+            "youtube": 4688,
+            "pinterest": 2885,
+            "tiktok": 5410
+          }
+        },
+        {
+          "date": "2026-11-12",
+          "followers": 114089,
+          "reach": 34011,
+          "impressions": 48296,
+          "engagements": 1769,
+          "platformBreakdown": {
+            "linkedin": 5782,
+            "instagram": 8163,
+            "facebook": 3741,
+            "x": 4081,
+            "youtube": 4421,
+            "pinterest": 2721,
+            "tiktok": 5102
+          }
+        },
+        {
+          "date": "2026-11-13",
+          "followers": 114409,
+          "reach": 32770,
+          "impressions": 46533,
+          "engagements": 1835,
+          "platformBreakdown": {
+            "linkedin": 5571,
+            "instagram": 7865,
+            "facebook": 3605,
+            "x": 3932,
+            "youtube": 4260,
+            "pinterest": 2622,
+            "tiktok": 4916
+          }
+        },
+        {
+          "date": "2026-11-14",
+          "followers": 114727,
+          "reach": 37108,
+          "impressions": 52693,
+          "engagements": 2226,
+          "platformBreakdown": {
+            "linkedin": 6308,
+            "instagram": 8906,
+            "facebook": 4082,
+            "x": 4453,
+            "youtube": 4824,
+            "pinterest": 2969,
+            "tiktok": 5566
+          }
+        },
+        {
+          "date": "2026-11-15",
+          "followers": 115049,
+          "reach": 38110,
+          "impressions": 54116,
+          "engagements": 2439,
+          "platformBreakdown": {
+            "linkedin": 6479,
+            "instagram": 9146,
+            "facebook": 4192,
+            "x": 4573,
+            "youtube": 4954,
+            "pinterest": 3049,
+            "tiktok": 5717
+          }
+        }
+      ],
+      "insights": [
+        {
+          "id": "ins-aet-1",
+          "title": "YouTube Shorts tear-downs drive 3.1x higher subscriber conversion",
+          "platform": "youtube",
+          "impact": "High",
+          "metricTarget": "Subscriber Conversion",
+          "recommendation": "Cut 45-second magnet array assembly clips from long-form factory tours and pin product links.",
+          "suggestedTopic": "Inside the 40mm Beryllium Driver: 45s Acoustic Chamber Test",
+          "bestWindow": "Thu & Sun · 17:00",
+          "predictedLiftPct": 41
+        },
+        {
+          "id": "ins-aet-2",
+          "title": "X spec-comparison threads generate 2.8x reply depth",
+          "platform": "x",
+          "impact": "Medium",
+          "metricTarget": "Replies & Bookmarks",
+          "recommendation": "Post raw dB attenuation charts as image 1 instead of lifestyle renders on X.",
+          "suggestedTopic": "Why Open-Back Clarity Usually Fails on Flights—And How We Tuned Our Acoustic Seal",
+          "bestWindow": "Mon & Wed · 12:00",
+          "predictedLiftPct": 26
+        }
+      ]
+    },
+    {
+      "id": "proj-northline",
+      "name": "Northline Coffee",
+      "industry": "Specialty Roastery & Café",
+      "handle": "@northlineroast",
+      "summary": "Direct-trade harvest releases, pour-over brew recipes, and wholesale café partner stories.",
+      "connectedPlatforms": [
+        "instagram",
+        "tiktok",
+        "pinterest",
+        "youtube",
+        "facebook",
+        "linkedin",
+        "x"
+      ],
+      "followersTotal": 64900,
+      "followerGrowth30dPct": 19.4,
+      "autoScheduleEnabled": true,
+      "autoScheduleRules": [
+        {
+          "platform": "linkedin",
+          "enabled": true,
+          "preferredHours": [
+            9,
+            12,
+            16
+          ],
+          "weeklyTarget": 4
+        },
+        {
+          "platform": "instagram",
+          "enabled": true,
+          "preferredHours": [
+            11,
+            14,
+            19
+          ],
+          "weeklyTarget": 5
+        },
+        {
+          "platform": "facebook",
+          "enabled": true,
+          "preferredHours": [
+            10,
+            13,
+            18
+          ],
+          "weeklyTarget": 3
+        },
+        {
+          "platform": "x",
+          "enabled": true,
+          "preferredHours": [
+            8,
+            12,
+            17
+          ],
+          "weeklyTarget": 7
+        },
+        {
+          "platform": "youtube",
+          "enabled": true,
+          "preferredHours": [
+            14,
+            17
+          ],
+          "weeklyTarget": 2
+        },
+        {
+          "platform": "pinterest",
+          "enabled": true,
+          "preferredHours": [
+            15,
+            20
+          ],
+          "weeklyTarget": 4
+        },
+        {
+          "platform": "tiktok",
+          "enabled": true,
+          "preferredHours": [
+            12,
+            18,
+            21
+          ],
+          "weeklyTarget": 5
+        }
+      ],
+      "pillars": [
+        {
+          "id": "pil-nor-1",
+          "projectId": "proj-northline",
+          "name": "Brew Guides & Extraction",
+          "description": "Water temperature, grind calibration, and 60-second pour-over recipes.",
+          "targetSharePct": 50,
+          "tone": "Approachable, sensory, precise",
+          "audience": "Home baristas on TikTok, Instagram, Pinterest"
+        },
+        {
+          "id": "pil-nor-2",
+          "projectId": "proj-northline",
+          "name": "Origin & Harvest Transparency",
+          "description": "Farm-gate pricing reports and washed vs natural lot tastings.",
+          "targetSharePct": 30,
+          "tone": "Grounded, documentary",
+          "audience": "Wholesale buyers on LinkedIn & newsletter subscribers"
+        },
+        {
+          "id": "pil-nor-3",
+          "projectId": "proj-northline",
+          "name": "Roastery Community",
+          "description": "Weekend cupping sessions and seasonal menu drops.",
+          "targetSharePct": 20,
+          "tone": "Warm, neighborhood-focused",
+          "audience": "Local guests on Facebook & Instagram Stories"
+        }
+      ],
+      "analyticsSeries": [
+        {
+          "date": "2026-08-18",
+          "followers": 53734,
+          "reach": 18852,
+          "impressions": 26770,
+          "engagements": 905,
+          "platformBreakdown": {
+            "linkedin": 3205,
+            "instagram": 4524,
+            "facebook": 2074,
+            "x": 2262,
+            "youtube": 2451,
+            "pinterest": 1508,
+            "tiktok": 2828
+          }
+        },
+        {
+          "date": "2026-08-19",
+          "followers": 54072,
+          "reach": 19444,
+          "impressions": 27610,
+          "engagements": 1011,
+          "platformBreakdown": {
+            "linkedin": 3305,
+            "instagram": 4667,
+            "facebook": 2139,
+            "x": 2333,
+            "youtube": 2528,
+            "pinterest": 1556,
+            "tiktok": 2917
+          }
+        },
+        {
+          "date": "2026-08-20",
+          "followers": 54419,
+          "reach": 20783,
+          "impressions": 29512,
+          "engagements": 1164,
+          "platformBreakdown": {
+            "linkedin": 3533,
+            "instagram": 4988,
+            "facebook": 2286,
+            "x": 2494,
+            "youtube": 2702,
+            "pinterest": 1663,
+            "tiktok": 3117
+          }
+        },
+        {
+          "date": "2026-08-21",
+          "followers": 54779,
+          "reach": 22654,
+          "impressions": 32169,
+          "engagements": 1359,
+          "platformBreakdown": {
+            "linkedin": 3851,
+            "instagram": 5437,
+            "facebook": 2492,
+            "x": 2718,
+            "youtube": 2945,
+            "pinterest": 1812,
+            "tiktok": 3398
+          }
+        },
+        {
+          "date": "2026-08-22",
+          "followers": 55154,
+          "reach": 28244,
+          "impressions": 40106,
+          "engagements": 1808,
+          "platformBreakdown": {
+            "linkedin": 4801,
+            "instagram": 6779,
+            "facebook": 3107,
+            "x": 3389,
+            "youtube": 3672,
+            "pinterest": 2260,
+            "tiktok": 4237
+          }
+        },
+        {
+          "date": "2026-08-23",
+          "followers": 55543,
+          "reach": 30598,
+          "impressions": 43449,
+          "engagements": 1469,
+          "platformBreakdown": {
+            "linkedin": 5202,
+            "instagram": 7344,
+            "facebook": 3366,
+            "x": 3672,
+            "youtube": 3978,
+            "pinterest": 2448,
+            "tiktok": 4590
+          }
+        },
+        {
+          "date": "2026-08-24",
+          "followers": 55944,
+          "reach": 28557,
+          "impressions": 40551,
+          "engagements": 1485,
+          "platformBreakdown": {
+            "linkedin": 4855,
+            "instagram": 6854,
+            "facebook": 3141,
+            "x": 3427,
+            "youtube": 3712,
+            "pinterest": 2285,
+            "tiktok": 4284
+          }
+        },
+        {
+          "date": "2026-08-25",
+          "followers": 56353,
+          "reach": 29698,
+          "impressions": 42171,
+          "engagements": 1663,
+          "platformBreakdown": {
+            "linkedin": 5049,
+            "instagram": 7128,
+            "facebook": 3267,
+            "x": 3564,
+            "youtube": 3861,
+            "pinterest": 2376,
+            "tiktok": 4455
+          }
+        },
+        {
+          "date": "2026-08-26",
+          "followers": 56764,
+          "reach": 30125,
+          "impressions": 42778,
+          "engagements": 1808,
+          "platformBreakdown": {
+            "linkedin": 5121,
+            "instagram": 7230,
+            "facebook": 3314,
+            "x": 3615,
+            "youtube": 3916,
+            "pinterest": 2410,
+            "tiktok": 4519
+          }
+        },
+        {
+          "date": "2026-08-27",
+          "followers": 57172,
+          "reach": 29813,
+          "impressions": 42334,
+          "engagements": 1908,
+          "platformBreakdown": {
+            "linkedin": 5068,
+            "instagram": 7155,
+            "facebook": 3279,
+            "x": 3578,
+            "youtube": 3876,
+            "pinterest": 2385,
+            "tiktok": 4472
+          }
+        },
+        {
+          "date": "2026-08-28",
+          "followers": 57572,
+          "reach": 28852,
+          "impressions": 40970,
+          "engagements": 1385,
+          "platformBreakdown": {
+            "linkedin": 4905,
+            "instagram": 6924,
+            "facebook": 3174,
+            "x": 3462,
+            "youtube": 3751,
+            "pinterest": 2308,
+            "tiktok": 4328
+          }
+        },
+        {
+          "date": "2026-08-29",
+          "followers": 57961,
+          "reach": 31272,
+          "impressions": 44406,
+          "engagements": 1626,
+          "platformBreakdown": {
+            "linkedin": 5316,
+            "instagram": 7505,
+            "facebook": 3440,
+            "x": 3753,
+            "youtube": 4065,
+            "pinterest": 2502,
+            "tiktok": 4691
+          }
+        },
+        {
+          "date": "2026-08-30",
+          "followers": 58337,
+          "reach": 29432,
+          "impressions": 41793,
+          "engagements": 1648,
+          "platformBreakdown": {
+            "linkedin": 5003,
+            "instagram": 7064,
+            "facebook": 3238,
+            "x": 3532,
+            "youtube": 3826,
+            "pinterest": 2355,
+            "tiktok": 4415
+          }
+        },
+        {
+          "date": "2026-08-31",
+          "followers": 58701,
+          "reach": 24306,
+          "impressions": 34515,
+          "engagements": 1458,
+          "platformBreakdown": {
+            "linkedin": 4132,
+            "instagram": 5833,
+            "facebook": 2674,
+            "x": 2917,
+            "youtube": 3160,
+            "pinterest": 1944,
+            "tiktok": 3646
+          }
+        },
+        {
+          "date": "2026-09-01",
+          "followers": 59056,
+          "reach": 23185,
+          "impressions": 32923,
+          "engagements": 1484,
+          "platformBreakdown": {
+            "linkedin": 3941,
+            "instagram": 5564,
+            "facebook": 2550,
+            "x": 2782,
+            "youtube": 3014,
+            "pinterest": 1855,
+            "tiktok": 3478
+          }
+        },
+        {
+          "date": "2026-09-02",
+          "followers": 59407,
+          "reach": 22690,
+          "impressions": 32220,
+          "engagements": 1089,
+          "platformBreakdown": {
+            "linkedin": 3857,
+            "instagram": 5446,
+            "facebook": 2496,
+            "x": 2723,
+            "youtube": 2950,
+            "pinterest": 1815,
+            "tiktok": 3404
+          }
+        },
+        {
+          "date": "2026-09-03",
+          "followers": 59759,
+          "reach": 22967,
+          "impressions": 32613,
+          "engagements": 1194,
+          "platformBreakdown": {
+            "linkedin": 3904,
+            "instagram": 5512,
+            "facebook": 2526,
+            "x": 2756,
+            "youtube": 2986,
+            "pinterest": 1837,
+            "tiktok": 3445
+          }
+        },
+        {
+          "date": "2026-09-04",
+          "followers": 60118,
+          "reach": 24053,
+          "impressions": 34155,
+          "engagements": 1347,
+          "platformBreakdown": {
+            "linkedin": 4089,
+            "instagram": 5773,
+            "facebook": 2646,
+            "x": 2886,
+            "youtube": 3127,
+            "pinterest": 1924,
+            "tiktok": 3608
+          }
+        },
+        {
+          "date": "2026-09-05",
+          "followers": 60490,
+          "reach": 29488,
+          "impressions": 41873,
+          "engagements": 1769,
+          "platformBreakdown": {
+            "linkedin": 5013,
+            "instagram": 7077,
+            "facebook": 3244,
+            "x": 3539,
+            "youtube": 3833,
+            "pinterest": 2359,
+            "tiktok": 4423
+          }
+        },
+        {
+          "date": "2026-09-06",
+          "followers": 60879,
+          "reach": 32168,
+          "impressions": 45679,
+          "engagements": 2059,
+          "platformBreakdown": {
+            "linkedin": 5469,
+            "instagram": 7720,
+            "facebook": 3538,
+            "x": 3860,
+            "youtube": 4182,
+            "pinterest": 2573,
+            "tiktok": 4825
+          }
+        },
+        {
+          "date": "2026-09-07",
+          "followers": 61286,
+          "reach": 30836,
+          "impressions": 43787,
+          "engagements": 1480,
+          "platformBreakdown": {
+            "linkedin": 5242,
+            "instagram": 7401,
+            "facebook": 3392,
+            "x": 3700,
+            "youtube": 4009,
+            "pinterest": 2467,
+            "tiktok": 4625
+          }
+        },
+        {
+          "date": "2026-09-08",
+          "followers": 61711,
+          "reach": 33404,
+          "impressions": 47434,
+          "engagements": 1737,
+          "platformBreakdown": {
+            "linkedin": 5679,
+            "instagram": 8017,
+            "facebook": 3674,
+            "x": 4008,
+            "youtube": 4343,
+            "pinterest": 2672,
+            "tiktok": 5011
+          }
+        },
+        {
+          "date": "2026-09-09",
+          "followers": 62152,
+          "reach": 35606,
+          "impressions": 50561,
+          "engagements": 1994,
+          "platformBreakdown": {
+            "linkedin": 6053,
+            "instagram": 8545,
+            "facebook": 3917,
+            "x": 4273,
+            "youtube": 4629,
+            "pinterest": 2848,
+            "tiktok": 5341
+          }
+        },
+        {
+          "date": "2026-09-10",
+          "followers": 62604,
+          "reach": 37166,
+          "impressions": 52776,
+          "engagements": 2230,
+          "platformBreakdown": {
+            "linkedin": 6318,
+            "instagram": 8920,
+            "facebook": 4088,
+            "x": 4460,
+            "youtube": 4832,
+            "pinterest": 2973,
+            "tiktok": 5575
+          }
+        },
+        {
+          "date": "2026-09-11",
+          "followers": 63060,
+          "reach": 37893,
+          "impressions": 53808,
+          "engagements": 2425,
+          "platformBreakdown": {
+            "linkedin": 6442,
+            "instagram": 9094,
+            "facebook": 4168,
+            "x": 4547,
+            "youtube": 4926,
+            "pinterest": 3031,
+            "tiktok": 5684
+          }
+        },
+        {
+          "date": "2026-09-12",
+          "followers": 63514,
+          "reach": 42981,
+          "impressions": 61033,
+          "engagements": 2063,
+          "platformBreakdown": {
+            "linkedin": 7307,
+            "instagram": 10315,
+            "facebook": 4728,
+            "x": 5158,
+            "youtube": 5588,
+            "pinterest": 3438,
+            "tiktok": 6447
+          }
+        },
+        {
+          "date": "2026-09-13",
+          "followers": 63959,
+          "reach": 41759,
+          "impressions": 59298,
+          "engagements": 2171,
+          "platformBreakdown": {
+            "linkedin": 7099,
+            "instagram": 10022,
+            "facebook": 4593,
+            "x": 5011,
+            "youtube": 5429,
+            "pinterest": 3341,
+            "tiktok": 6264
+          }
+        },
+        {
+          "date": "2026-09-14",
+          "followers": 64390,
+          "reach": 34830,
+          "impressions": 49459,
+          "engagements": 1950,
+          "platformBreakdown": {
+            "linkedin": 5921,
+            "instagram": 8359,
+            "facebook": 3831,
+            "x": 4180,
+            "youtube": 4528,
+            "pinterest": 2786,
+            "tiktok": 5225
+          }
+        },
+        {
+          "date": "2026-09-15",
+          "followers": 64804,
+          "reach": 32548,
+          "impressions": 46218,
+          "engagements": 1953,
+          "platformBreakdown": {
+            "linkedin": 5533,
+            "instagram": 7812,
+            "facebook": 3580,
+            "x": 3906,
+            "youtube": 4231,
+            "pinterest": 2604,
+            "tiktok": 4882
+          }
+        },
+        {
+          "date": "2026-09-16",
+          "followers": 65199,
+          "reach": 30089,
+          "impressions": 42726,
+          "engagements": 1926,
+          "platformBreakdown": {
+            "linkedin": 5115,
+            "instagram": 7221,
+            "facebook": 3310,
+            "x": 3611,
+            "youtube": 3912,
+            "pinterest": 2407,
+            "tiktok": 4513
+          }
+        },
+        {
+          "date": "2026-09-17",
+          "followers": 65576,
+          "reach": 27776,
+          "impressions": 39442,
+          "engagements": 1333,
+          "platformBreakdown": {
+            "linkedin": 4722,
+            "instagram": 6666,
+            "facebook": 3055,
+            "x": 3333,
+            "youtube": 3611,
+            "pinterest": 2222,
+            "tiktok": 4166
+          }
+        },
+        {
+          "date": "2026-09-18",
+          "followers": 65938,
+          "reach": 25906,
+          "impressions": 36787,
+          "engagements": 1347,
+          "platformBreakdown": {
+            "linkedin": 4404,
+            "instagram": 6217,
+            "facebook": 2850,
+            "x": 3109,
+            "youtube": 3368,
+            "pinterest": 2072,
+            "tiktok": 3886
+          }
+        },
+        {
+          "date": "2026-09-19",
+          "followers": 66291,
+          "reach": 28164,
+          "impressions": 39993,
+          "engagements": 1577,
+          "platformBreakdown": {
+            "linkedin": 4788,
+            "instagram": 6759,
+            "facebook": 3098,
+            "x": 3380,
+            "youtube": 3661,
+            "pinterest": 2253,
+            "tiktok": 4225
+          }
+        },
+        {
+          "date": "2026-09-20",
+          "followers": 66640,
+          "reach": 27704,
+          "impressions": 39340,
+          "engagements": 1662,
+          "platformBreakdown": {
+            "linkedin": 4710,
+            "instagram": 6649,
+            "facebook": 3047,
+            "x": 3324,
+            "youtube": 3602,
+            "pinterest": 2216,
+            "tiktok": 4156
+          }
+        },
+        {
+          "date": "2026-09-21",
+          "followers": 66991,
+          "reach": 24707,
+          "impressions": 35084,
+          "engagements": 1581,
+          "platformBreakdown": {
+            "linkedin": 4200,
+            "instagram": 5930,
+            "facebook": 2718,
+            "x": 2965,
+            "youtube": 3212,
+            "pinterest": 1977,
+            "tiktok": 3706
+          }
+        },
+        {
+          "date": "2026-09-22",
+          "followers": 67349,
+          "reach": 25816,
+          "impressions": 36659,
+          "engagements": 1239,
+          "platformBreakdown": {
+            "linkedin": 4389,
+            "instagram": 6196,
+            "facebook": 2840,
+            "x": 3098,
+            "youtube": 3356,
+            "pinterest": 2065,
+            "tiktok": 3872
+          }
+        },
+        {
+          "date": "2026-09-23",
+          "followers": 67719,
+          "reach": 27428,
+          "impressions": 38948,
+          "engagements": 1426,
+          "platformBreakdown": {
+            "linkedin": 4663,
+            "instagram": 6583,
+            "facebook": 3017,
+            "x": 3291,
+            "youtube": 3566,
+            "pinterest": 2194,
+            "tiktok": 4114
+          }
+        },
+        {
+          "date": "2026-09-24",
+          "followers": 68101,
+          "reach": 29271,
+          "impressions": 41565,
+          "engagements": 1639,
+          "platformBreakdown": {
+            "linkedin": 4976,
+            "instagram": 7025,
+            "facebook": 3220,
+            "x": 3513,
+            "youtube": 3805,
+            "pinterest": 2342,
+            "tiktok": 4391
+          }
+        },
+        {
+          "date": "2026-09-25",
+          "followers": 68496,
+          "reach": 31044,
+          "impressions": 44082,
+          "engagements": 1863,
+          "platformBreakdown": {
+            "linkedin": 5277,
+            "instagram": 7451,
+            "facebook": 3415,
+            "x": 3725,
+            "youtube": 4036,
+            "pinterest": 2484,
+            "tiktok": 4657
+          }
+        },
+        {
+          "date": "2026-09-26",
+          "followers": 68900,
+          "reach": 37009,
+          "impressions": 52553,
+          "engagements": 2369,
+          "platformBreakdown": {
+            "linkedin": 6292,
+            "instagram": 8882,
+            "facebook": 4071,
+            "x": 4441,
+            "youtube": 4811,
+            "pinterest": 2961,
+            "tiktok": 5551
+          }
+        },
+        {
+          "date": "2026-09-27",
+          "followers": 69310,
+          "reach": 37969,
+          "impressions": 53916,
+          "engagements": 1823,
+          "platformBreakdown": {
+            "linkedin": 6455,
+            "instagram": 9113,
+            "facebook": 4177,
+            "x": 4556,
+            "youtube": 4936,
+            "pinterest": 3038,
+            "tiktok": 5695
+          }
+        },
+        {
+          "date": "2026-09-28",
+          "followers": 69720,
+          "reach": 33435,
+          "impressions": 47478,
+          "engagements": 1739,
+          "platformBreakdown": {
+            "linkedin": 5684,
+            "instagram": 8024,
+            "facebook": 3678,
+            "x": 4012,
+            "youtube": 4347,
+            "pinterest": 2675,
+            "tiktok": 5015
+          }
+        },
+        {
+          "date": "2026-09-29",
+          "followers": 70125,
+          "reach": 32829,
+          "impressions": 46617,
+          "engagements": 1838,
+          "platformBreakdown": {
+            "linkedin": 5581,
+            "instagram": 7879,
+            "facebook": 3611,
+            "x": 3939,
+            "youtube": 4268,
+            "pinterest": 2626,
+            "tiktok": 4924
+          }
+        },
+        {
+          "date": "2026-09-30",
+          "followers": 70520,
+          "reach": 31578,
+          "impressions": 44841,
+          "engagements": 1895,
+          "platformBreakdown": {
+            "linkedin": 5368,
+            "instagram": 7579,
+            "facebook": 3474,
+            "x": 3789,
+            "youtube": 4105,
+            "pinterest": 2526,
+            "tiktok": 4737
+          }
+        },
+        {
+          "date": "2026-10-01",
+          "followers": 70901,
+          "reach": 29878,
+          "impressions": 42427,
+          "engagements": 1912,
+          "platformBreakdown": {
+            "linkedin": 5079,
+            "instagram": 7171,
+            "facebook": 3287,
+            "x": 3585,
+            "youtube": 3884,
+            "pinterest": 2390,
+            "tiktok": 4482
+          }
+        },
+        {
+          "date": "2026-10-02",
+          "followers": 71268,
+          "reach": 27996,
+          "impressions": 39754,
+          "engagements": 1344,
+          "platformBreakdown": {
+            "linkedin": 4759,
+            "instagram": 6719,
+            "facebook": 3080,
+            "x": 3360,
+            "youtube": 3639,
+            "pinterest": 2240,
+            "tiktok": 4199
+          }
+        },
+        {
+          "date": "2026-10-03",
+          "followers": 71621,
+          "reach": 29910,
+          "impressions": 42472,
+          "engagements": 1555,
+          "platformBreakdown": {
+            "linkedin": 5085,
+            "instagram": 7178,
+            "facebook": 3290,
+            "x": 3589,
+            "youtube": 3888,
+            "pinterest": 2393,
+            "tiktok": 4487
+          }
+        },
+        {
+          "date": "2026-10-04",
+          "followers": 71963,
+          "reach": 28384,
+          "impressions": 40305,
+          "engagements": 1590,
+          "platformBreakdown": {
+            "linkedin": 4825,
+            "instagram": 6812,
+            "facebook": 3122,
+            "x": 3406,
+            "youtube": 3690,
+            "pinterest": 2271,
+            "tiktok": 4258
+          }
+        },
+        {
+          "date": "2026-10-05",
+          "followers": 72299,
+          "reach": 24224,
+          "impressions": 34398,
+          "engagements": 1453,
+          "platformBreakdown": {
+            "linkedin": 4118,
+            "instagram": 5814,
+            "facebook": 2665,
+            "x": 2907,
+            "youtube": 3149,
+            "pinterest": 1938,
+            "tiktok": 3634
+          }
+        },
+        {
+          "date": "2026-10-06",
+          "followers": 72636,
+          "reach": 24373,
+          "impressions": 34610,
+          "engagements": 1560,
+          "platformBreakdown": {
+            "linkedin": 4143,
+            "instagram": 5850,
+            "facebook": 2681,
+            "x": 2925,
+            "youtube": 3168,
+            "pinterest": 1950,
+            "tiktok": 3656
+          }
+        },
+        {
+          "date": "2026-10-07",
+          "followers": 72980,
+          "reach": 25390,
+          "impressions": 36054,
+          "engagements": 1219,
+          "platformBreakdown": {
+            "linkedin": 4316,
+            "instagram": 6094,
+            "facebook": 2793,
+            "x": 3047,
+            "youtube": 3301,
+            "pinterest": 2031,
+            "tiktok": 3809
+          }
+        },
+        {
+          "date": "2026-10-08",
+          "followers": 73336,
+          "reach": 27203,
+          "impressions": 38628,
+          "engagements": 1415,
+          "platformBreakdown": {
+            "linkedin": 4625,
+            "instagram": 6529,
+            "facebook": 2992,
+            "x": 3264,
+            "youtube": 3536,
+            "pinterest": 2176,
+            "tiktok": 4080
+          }
+        },
+        {
+          "date": "2026-10-09",
+          "followers": 73709,
+          "reach": 29628,
+          "impressions": 42072,
+          "engagements": 1659,
+          "platformBreakdown": {
+            "linkedin": 5037,
+            "instagram": 7111,
+            "facebook": 3259,
+            "x": 3555,
+            "youtube": 3852,
+            "pinterest": 2370,
+            "tiktok": 4444
+          }
+        },
+        {
+          "date": "2026-10-10",
+          "followers": 74102,
+          "reach": 36931,
+          "impressions": 52442,
+          "engagements": 2216,
+          "platformBreakdown": {
+            "linkedin": 6278,
+            "instagram": 8863,
+            "facebook": 4062,
+            "x": 4432,
+            "youtube": 4801,
+            "pinterest": 2954,
+            "tiktok": 5540
+          }
+        },
+        {
+          "date": "2026-10-11",
+          "followers": 74515,
+          "reach": 40113,
+          "impressions": 56960,
+          "engagements": 2567,
+          "platformBreakdown": {
+            "linkedin": 6819,
+            "instagram": 9627,
+            "facebook": 4412,
+            "x": 4814,
+            "youtube": 5215,
+            "pinterest": 3209,
+            "tiktok": 6017
+          }
+        },
+        {
+          "date": "2026-10-12",
+          "followers": 74945,
+          "reach": 37676,
+          "impressions": 53500,
+          "engagements": 1808,
+          "platformBreakdown": {
+            "linkedin": 6405,
+            "instagram": 9042,
+            "facebook": 4144,
+            "x": 4521,
+            "youtube": 4898,
+            "pinterest": 3014,
+            "tiktok": 5651
+          }
+        },
+        {
+          "date": "2026-10-13",
+          "followers": 75389,
+          "reach": 39579,
+          "impressions": 56202,
+          "engagements": 2058,
+          "platformBreakdown": {
+            "linkedin": 6728,
+            "instagram": 9499,
+            "facebook": 4354,
+            "x": 4749,
+            "youtube": 5145,
+            "pinterest": 3166,
+            "tiktok": 5937
+          }
+        },
+        {
+          "date": "2026-10-14",
+          "followers": 75840,
+          "reach": 40686,
+          "impressions": 57774,
+          "engagements": 2278,
+          "platformBreakdown": {
+            "linkedin": 6917,
+            "instagram": 9765,
+            "facebook": 4475,
+            "x": 4882,
+            "youtube": 5289,
+            "pinterest": 3255,
+            "tiktok": 6103
+          }
+        },
+        {
+          "date": "2026-10-15",
+          "followers": 76292,
+          "reach": 40898,
+          "impressions": 58075,
+          "engagements": 2454,
+          "platformBreakdown": {
+            "linkedin": 6953,
+            "instagram": 9816,
+            "facebook": 4499,
+            "x": 4908,
+            "youtube": 5317,
+            "pinterest": 3272,
+            "tiktok": 6135
+          }
+        },
+        {
+          "date": "2026-10-16",
+          "followers": 76738,
+          "reach": 40232,
+          "impressions": 57129,
+          "engagements": 2575,
+          "platformBreakdown": {
+            "linkedin": 6839,
+            "instagram": 9656,
+            "facebook": 4426,
+            "x": 4828,
+            "youtube": 5230,
+            "pinterest": 3219,
+            "tiktok": 6035
+          }
+        },
+        {
+          "date": "2026-10-17",
+          "followers": 77173,
+          "reach": 44258,
+          "impressions": 62846,
+          "engagements": 2124,
+          "platformBreakdown": {
+            "linkedin": 7524,
+            "instagram": 10622,
+            "facebook": 4868,
+            "x": 5311,
+            "youtube": 5754,
+            "pinterest": 3541,
+            "tiktok": 6639
+          }
+        },
+        {
+          "date": "2026-10-18",
+          "followers": 77593,
+          "reach": 42068,
+          "impressions": 59737,
+          "engagements": 2188,
+          "platformBreakdown": {
+            "linkedin": 7152,
+            "instagram": 10096,
+            "facebook": 4627,
+            "x": 5048,
+            "youtube": 5469,
+            "pinterest": 3365,
+            "tiktok": 6310
+          }
+        },
+        {
+          "date": "2026-10-19",
+          "followers": 77996,
+          "reach": 34762,
+          "impressions": 49362,
+          "engagements": 1947,
+          "platformBreakdown": {
+            "linkedin": 5910,
+            "instagram": 8343,
+            "facebook": 3824,
+            "x": 4171,
+            "youtube": 4519,
+            "pinterest": 2781,
+            "tiktok": 5214
+          }
+        },
+        {
+          "date": "2026-10-20",
+          "followers": 78384,
+          "reach": 32718,
+          "impressions": 46460,
+          "engagements": 1963,
+          "platformBreakdown": {
+            "linkedin": 5562,
+            "instagram": 7852,
+            "facebook": 3599,
+            "x": 3926,
+            "youtube": 4253,
+            "pinterest": 2617,
+            "tiktok": 4908
+          }
+        },
+        {
+          "date": "2026-10-21",
+          "followers": 78759,
+          "reach": 31060,
+          "impressions": 44105,
+          "engagements": 1988,
+          "platformBreakdown": {
+            "linkedin": 5280,
+            "instagram": 7454,
+            "facebook": 3417,
+            "x": 3727,
+            "youtube": 4038,
+            "pinterest": 2485,
+            "tiktok": 4659
+          }
+        },
+        {
+          "date": "2026-10-22",
+          "followers": 79125,
+          "reach": 30014,
+          "impressions": 42620,
+          "engagements": 1441,
+          "platformBreakdown": {
+            "linkedin": 5102,
+            "instagram": 7203,
+            "facebook": 3302,
+            "x": 3602,
+            "youtube": 3902,
+            "pinterest": 2401,
+            "tiktok": 4502
+          }
+        },
+        {
+          "date": "2026-10-23",
+          "followers": 79488,
+          "reach": 29708,
+          "impressions": 42185,
+          "engagements": 1545,
+          "platformBreakdown": {
+            "linkedin": 5050,
+            "instagram": 7130,
+            "facebook": 3268,
+            "x": 3565,
+            "youtube": 3862,
+            "pinterest": 2377,
+            "tiktok": 4456
+          }
+        },
+        {
+          "date": "2026-10-24",
+          "followers": 79854,
+          "reach": 34382,
+          "impressions": 48822,
+          "engagements": 1925,
+          "platformBreakdown": {
+            "linkedin": 5845,
+            "instagram": 8252,
+            "facebook": 3782,
+            "x": 4126,
+            "youtube": 4470,
+            "pinterest": 2751,
+            "tiktok": 5157
+          }
+        },
+        {
+          "date": "2026-10-25",
+          "followers": 80227,
+          "reach": 35646,
+          "impressions": 50617,
+          "engagements": 2139,
+          "platformBreakdown": {
+            "linkedin": 6060,
+            "instagram": 8555,
+            "facebook": 3921,
+            "x": 4278,
+            "youtube": 4634,
+            "pinterest": 2852,
+            "tiktok": 5347
+          }
+        },
+        {
+          "date": "2026-10-26",
+          "followers": 80611,
+          "reach": 32837,
+          "impressions": 46629,
+          "engagements": 2102,
+          "platformBreakdown": {
+            "linkedin": 5582,
+            "instagram": 7881,
+            "facebook": 3612,
+            "x": 3940,
+            "youtube": 4269,
+            "pinterest": 2627,
+            "tiktok": 4926
+          }
+        },
+        {
+          "date": "2026-10-27",
+          "followers": 81007,
+          "reach": 34597,
+          "impressions": 49128,
+          "engagements": 1661,
+          "platformBreakdown": {
+            "linkedin": 5881,
+            "instagram": 8303,
+            "facebook": 3806,
+            "x": 4152,
+            "youtube": 4498,
+            "pinterest": 2768,
+            "tiktok": 5190
+          }
+        },
+        {
+          "date": "2026-10-28",
+          "followers": 81414,
+          "reach": 36252,
+          "impressions": 51478,
+          "engagements": 1885,
+          "platformBreakdown": {
+            "linkedin": 6163,
+            "instagram": 8700,
+            "facebook": 3988,
+            "x": 4350,
+            "youtube": 4713,
+            "pinterest": 2900,
+            "tiktok": 5438
+          }
+        },
+        {
+          "date": "2026-10-29",
+          "followers": 81830,
+          "reach": 37520,
+          "impressions": 53278,
+          "engagements": 2101,
+          "platformBreakdown": {
+            "linkedin": 6378,
+            "instagram": 9005,
+            "facebook": 4127,
+            "x": 4502,
+            "youtube": 4878,
+            "pinterest": 3002,
+            "tiktok": 5628
+          }
+        },
+        {
+          "date": "2026-10-30",
+          "followers": 82250,
+          "reach": 38175,
+          "impressions": 54209,
+          "engagements": 2291,
+          "platformBreakdown": {
+            "linkedin": 6490,
+            "instagram": 9162,
+            "facebook": 4199,
+            "x": 4581,
+            "youtube": 4963,
+            "pinterest": 3054,
+            "tiktok": 5726
+          }
+        },
+        {
+          "date": "2026-10-31",
+          "followers": 82669,
+          "reach": 43414,
+          "impressions": 61648,
+          "engagements": 2778,
+          "platformBreakdown": {
+            "linkedin": 7380,
+            "instagram": 10419,
+            "facebook": 4776,
+            "x": 5210,
+            "youtube": 5644,
+            "pinterest": 3473,
+            "tiktok": 6512
+          }
+        },
+        {
+          "date": "2026-11-01",
+          "followers": 83080,
+          "reach": 42430,
+          "impressions": 60251,
+          "engagements": 2037,
+          "platformBreakdown": {
+            "linkedin": 7213,
+            "instagram": 10183,
+            "facebook": 4667,
+            "x": 5092,
+            "youtube": 5516,
+            "pinterest": 3394,
+            "tiktok": 6365
+          }
+        },
+        {
+          "date": "2026-11-02",
+          "followers": 83479,
+          "reach": 35678,
+          "impressions": 50663,
+          "engagements": 1855,
+          "platformBreakdown": {
+            "linkedin": 6065,
+            "instagram": 8563,
+            "facebook": 3925,
+            "x": 4281,
+            "youtube": 4638,
+            "pinterest": 2854,
+            "tiktok": 5352
+          }
+        },
+        {
+          "date": "2026-11-03",
+          "followers": 83863,
+          "reach": 33656,
+          "impressions": 47792,
+          "engagements": 1885,
+          "platformBreakdown": {
+            "linkedin": 5722,
+            "instagram": 8077,
+            "facebook": 3702,
+            "x": 4039,
+            "youtube": 4375,
+            "pinterest": 2692,
+            "tiktok": 5048
+          }
+        },
+        {
+          "date": "2026-11-04",
+          "followers": 84229,
+          "reach": 31428,
+          "impressions": 44628,
+          "engagements": 1886,
+          "platformBreakdown": {
+            "linkedin": 5343,
+            "instagram": 7543,
+            "facebook": 3457,
+            "x": 3771,
+            "youtube": 4086,
+            "pinterest": 2514,
+            "tiktok": 4714
+          }
+        },
+        {
+          "date": "2026-11-05",
+          "followers": 84579,
+          "reach": 29307,
+          "impressions": 41616,
+          "engagements": 1876,
+          "platformBreakdown": {
+            "linkedin": 4982,
+            "instagram": 7034,
+            "facebook": 3224,
+            "x": 3517,
+            "youtube": 3810,
+            "pinterest": 2345,
+            "tiktok": 4396
+          }
+        },
+        {
+          "date": "2026-11-06",
+          "followers": 84915,
+          "reach": 27602,
+          "impressions": 39195,
+          "engagements": 1325,
+          "platformBreakdown": {
+            "linkedin": 4692,
+            "instagram": 6624,
+            "facebook": 3036,
+            "x": 3312,
+            "youtube": 3588,
+            "pinterest": 2208,
+            "tiktok": 4140
+          }
+        },
+        {
+          "date": "2026-11-07",
+          "followers": 85243,
+          "reach": 30292,
+          "impressions": 43015,
+          "engagements": 1575,
+          "platformBreakdown": {
+            "linkedin": 5150,
+            "instagram": 7270,
+            "facebook": 3332,
+            "x": 3635,
+            "youtube": 3938,
+            "pinterest": 2423,
+            "tiktok": 4544
+          }
+        },
+        {
+          "date": "2026-11-08",
+          "followers": 85569,
+          "reach": 30085,
+          "impressions": 42721,
+          "engagements": 1685,
+          "platformBreakdown": {
+            "linkedin": 5114,
+            "instagram": 7220,
+            "facebook": 3309,
+            "x": 3610,
+            "youtube": 3911,
+            "pinterest": 2407,
+            "tiktok": 4513
+          }
+        },
+        {
+          "date": "2026-11-09",
+          "followers": 85900,
+          "reach": 27119,
+          "impressions": 38509,
+          "engagements": 1627,
+          "platformBreakdown": {
+            "linkedin": 4610,
+            "instagram": 6509,
+            "facebook": 2983,
+            "x": 3254,
+            "youtube": 3525,
+            "pinterest": 2170,
+            "tiktok": 4068
+          }
+        },
+        {
+          "date": "2026-11-10",
+          "followers": 86241,
+          "reach": 28701,
+          "impressions": 40755,
+          "engagements": 1837,
+          "platformBreakdown": {
+            "linkedin": 4879,
+            "instagram": 6888,
+            "facebook": 3157,
+            "x": 3444,
+            "youtube": 3731,
+            "pinterest": 2296,
+            "tiktok": 4305
+          }
+        },
+        {
+          "date": "2026-11-11",
+          "followers": 86598,
+          "reach": 30965,
+          "impressions": 43970,
+          "engagements": 1486,
+          "platformBreakdown": {
+            "linkedin": 5264,
+            "instagram": 7432,
+            "facebook": 3406,
+            "x": 3716,
+            "youtube": 4025,
+            "pinterest": 2477,
+            "tiktok": 4645
+          }
+        },
+        {
+          "date": "2026-11-12",
+          "followers": 86974,
+          "reach": 33648,
+          "impressions": 47780,
+          "engagements": 1750,
+          "platformBreakdown": {
+            "linkedin": 5720,
+            "instagram": 8076,
+            "facebook": 3701,
+            "x": 4038,
+            "youtube": 4374,
+            "pinterest": 2692,
+            "tiktok": 5047
+          }
+        },
+        {
+          "date": "2026-11-13",
+          "followers": 87370,
+          "reach": 36437,
+          "impressions": 51741,
+          "engagements": 2040,
+          "platformBreakdown": {
+            "linkedin": 6194,
+            "instagram": 8745,
+            "facebook": 4008,
+            "x": 4372,
+            "youtube": 4737,
+            "pinterest": 2915,
+            "tiktok": 5466
+          }
+        },
+        {
+          "date": "2026-11-14",
+          "followers": 87784,
+          "reach": 44466,
+          "impressions": 63142,
+          "engagements": 2668,
+          "platformBreakdown": {
+            "linkedin": 7559,
+            "instagram": 10672,
+            "facebook": 4891,
+            "x": 5336,
+            "youtube": 5781,
+            "pinterest": 3557,
+            "tiktok": 6670
+          }
+        },
+        {
+          "date": "2026-11-15",
+          "followers": 88213,
+          "reach": 46810,
+          "impressions": 66470,
+          "engagements": 2996,
+          "platformBreakdown": {
+            "linkedin": 7958,
+            "instagram": 11234,
+            "facebook": 5149,
+            "x": 5617,
+            "youtube": 6085,
+            "pinterest": 3745,
+            "tiktok": 7022
+          }
+        }
+      ],
+      "insights": [
+        {
+          "id": "ins-nor-1",
+          "title": "Step-by-step pour-over pins generate steady evergreen referral clicks",
+          "platform": "pinterest",
+          "impact": "High",
+          "metricTarget": "Outbound Recipe Clicks",
+          "recommendation": "Overlay exact gram ratios (18g : 300g) cleanly on vertical 2:3 brew photography.",
+          "suggestedTopic": "V60 Single-Cup Ratio Card: Washed Ethiopian Sidama",
+          "bestWindow": "Sat & Sun · 20:00",
+          "predictedLiftPct": 37
+        }
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "id": "post-sol-1",
+      "projectId": "proj-solstice",
+      "title": "Bakuchiol + Ceramide Barrier Carousel",
+      "caption": "Gentle cellular turnover without compromising your moisture barrier. Our clinical 28-day study measured a 31% reduction in transepidermal water loss using cold-pressed rosehip, argan, and 1% bakuchiol.",
+      "hashtags": [
+        "#BarrierRepair",
+        "#CleanFormulation",
+        "#SolsticeSkincare"
+      ],
+      "platforms": [
+        "instagram",
+        "pinterest"
+      ],
+      "format": "Carousel",
+      "pillarId": "pil-sol-1",
+      "status": "Published",
+      "scheduledAt": "2026-11-06T11:00:00.000Z",
+      "publishedAt": "2026-11-06T11:00:00.000Z",
+      "assetId": "ast-sol-1",
+      "mediaKey": "asset_skincare_serum",
+      "autoScheduled": true,
+      "assignee": "Elena Vance",
+      "comments": [
+        {
+          "id": "c-1",
+          "authorName": "Maya Lin",
+          "authorRole": "Brand Lead",
+          "body": "Clinical stat is crystal clear on slide 1. Approved for Friday morning slot.",
+          "createdAt": "2026-11-05T16:10:00.000Z",
+          "action": "approved"
+        }
+      ],
+      "metrics": {
+        "impressions": 68400,
+        "reach": 54100,
+        "likes": 3420,
+        "comments": 184,
+        "shares": 412,
+        "saves": 1290,
+        "clicks": 940,
+        "engagementRate": 9.81
+      }
+    },
+    {
+      "id": "post-sol-2",
+      "projectId": "proj-solstice",
+      "title": "Refillable Glass Supply Chain Breakdown",
+      "caption": "Switching from virgin acrylic to 100% PCR amber glass added 18% to our unit freight weight—and cut repeat customer packaging waste by 74% across Q3. Full sustainability ledger below.",
+      "hashtags": [
+        "#SustainableBeauty",
+        "#PackagingDesign",
+        "#CPG"
+      ],
+      "platforms": [
+        "linkedin",
+        "facebook"
+      ],
+      "format": "Article",
+      "pillarId": "pil-sol-3",
+      "status": "Published",
+      "scheduledAt": "2026-11-09T09:00:00.000Z",
+      "publishedAt": "2026-11-09T09:00:00.000Z",
+      "assetId": "ast-sol-2",
+      "mediaKey": "canva_template_launch",
+      "autoScheduled": false,
+      "assignee": "Elena Vance",
+      "comments": [],
+      "metrics": {
+        "impressions": 41200,
+        "reach": 32900,
+        "likes": 1180,
+        "comments": 96,
+        "shares": 215,
+        "saves": 310,
+        "clicks": 1420,
+        "engagementRate": 5.47
+      }
+    },
+    {
+      "id": "post-sol-3",
+      "projectId": "proj-solstice",
+      "title": "Winter Moisture Seal 15s Texture Clip",
+      "caption": "Three drops pressed into damp skin right after misting locks hydration through dry cabin air and winter radiators.",
+      "hashtags": [
+        "#WinterSkincare",
+        "#GlowRoutine",
+        "#FacialOil"
+      ],
+      "platforms": [
+        "tiktok",
+        "youtube"
+      ],
+      "format": "Reel / Short",
+      "pillarId": "pil-sol-2",
+      "status": "Published",
+      "scheduledAt": "2026-11-11T18:00:00.000Z",
+      "publishedAt": "2026-11-11T18:00:00.000Z",
+      "assetId": "ast-sol-1",
+      "mediaKey": "asset_skincare_serum",
+      "autoScheduled": true,
+      "assignee": "Marcus Reid",
+      "comments": [],
+      "metrics": {
+        "impressions": 94300,
+        "reach": 81600,
+        "likes": 5890,
+        "comments": 245,
+        "shares": 680,
+        "saves": 2140,
+        "clicks": 760,
+        "engagementRate": 10.97
+      }
+    },
+    {
+      "id": "post-sol-4",
+      "projectId": "proj-solstice",
+      "title": "Dermatologist Myth-Busting Thread on Oils",
+      "caption": "Myth: Facial oils clog every acne-prone pore. Reality: High-linoleic rosehip oil actually balances sebum viscosity when layered over water-based humectants.",
+      "hashtags": [
+        "#SkincareScience",
+        "#DermFacts"
+      ],
+      "platforms": [
+        "x"
+      ],
+      "format": "Thread",
+      "pillarId": "pil-sol-1",
+      "status": "Published",
+      "scheduledAt": "2026-11-12T12:00:00.000Z",
+      "publishedAt": "2026-11-12T12:00:00.000Z",
+      "autoScheduled": true,
+      "assignee": "Elena Vance",
+      "comments": [],
+      "metrics": {
+        "impressions": 29500,
+        "reach": 24100,
+        "likes": 820,
+        "comments": 74,
+        "shares": 195,
+        "saves": 410,
+        "clicks": 620,
+        "engagementRate": 6.22
+      }
+    },
+    {
+      "id": "post-sol-5",
+      "projectId": "proj-solstice",
+      "title": "Stone Series Radiance Cream Reveal",
+      "caption": "Refillable stoneware jars engineered to live on your vanity, not in landfill. Reserve early access for the November batch.",
+      "hashtags": [
+        "#StoneSeries",
+        "#RefillableBeauty",
+        "#Solstice"
+      ],
+      "platforms": [
+        "instagram",
+        "linkedin",
+        "pinterest"
+      ],
+      "format": "Carousel",
+      "pillarId": "pil-sol-3",
+      "status": "Scheduled",
+      "scheduledAt": "2026-11-17T14:00:00.000Z",
+      "assetId": "ast-sol-2",
+      "mediaKey": "canva_template_launch",
+      "autoScheduled": true,
+      "assignee": "Elena Vance",
+      "comments": [
+        {
+          "id": "c-2",
+          "authorName": "Maya Lin",
+          "authorRole": "Brand Lead",
+          "body": "Typography crop from Canva matches our Q4 grid perfectly.",
+          "createdAt": "2026-11-14T10:15:00.000Z",
+          "action": "approved"
+        }
+      ]
+    },
+    {
+      "id": "post-sol-6",
+      "projectId": "proj-solstice",
+      "title": "Evening Barrier Reset Routine (YouTube + TikTok)",
+      "caption": "Full 45-second evening layering walk-through showing exact drop counts and wait times between actives.",
+      "hashtags": [
+        "#NightRoutine",
+        "#SkinBarrier",
+        "#SkincareTips"
+      ],
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "format": "Reel / Short",
+      "pillarId": "pil-sol-2",
+      "status": "In Review",
+      "scheduledAt": "2026-11-19T18:00:00.000Z",
+      "assetId": "ast-sol-1",
+      "mediaKey": "asset_skincare_serum",
+      "autoScheduled": false,
+      "assignee": "Marcus Reid",
+      "comments": [
+        {
+          "id": "c-3",
+          "authorName": "Marcus Reid",
+          "authorRole": "Video Producer",
+          "body": "Uploaded color-graded export and updated caption hook for YouTube Shorts SEO. Ready for sign-off.",
+          "createdAt": "2026-11-15T07:30:00.000Z",
+          "action": "submitted"
+        }
+      ]
+    },
+    {
+      "id": "post-sol-7",
+      "projectId": "proj-solstice",
+      "title": "Holiday Gift Guide Pinterest Pin Set",
+      "caption": "Curated botanical gift sets with zero outer plastic wrap. Save to your winter wellness board.",
+      "hashtags": [
+        "#CleanGiftGuide",
+        "#MinimalistSkincare"
+      ],
+      "platforms": [
+        "pinterest",
+        "facebook"
+      ],
+      "format": "Pin",
+      "pillarId": "pil-sol-2",
+      "status": "In Review",
+      "scheduledAt": "2026-11-20T15:00:00.000Z",
+      "assetId": "ast-sol-2",
+      "mediaKey": "canva_template_launch",
+      "autoScheduled": false,
+      "assignee": "Elena Vance",
+      "comments": [
+        {
+          "id": "c-4",
+          "authorName": "Elena Vance",
+          "authorRole": "Social Strategist",
+          "body": "Added UTM tracking parameters for Pinterest Shopping catalog.",
+          "createdAt": "2026-11-15T06:45:00.000Z",
+          "action": "submitted"
+        }
+      ]
+    },
+    {
+      "id": "post-sol-8",
+      "projectId": "proj-solstice",
+      "title": "Q4 Retail Partner Announcement Draft",
+      "caption": "Excited to share that Solstice Botanical Serum rolls out to 42 independent apothecaries next week.",
+      "hashtags": [
+        "#RetailLaunch",
+        "#CleanBeauty"
+      ],
+      "platforms": [
+        "linkedin",
+        "x"
+      ],
+      "format": "Single Post",
+      "pillarId": "pil-sol-3",
+      "status": "Approved",
+      "scheduledAt": "2026-11-22T09:00:00.000Z",
+      "assetId": "ast-sol-1",
+      "mediaKey": "asset_skincare_serum",
+      "autoScheduled": false,
+      "assignee": "Elena Vance",
+      "comments": []
+    },
+    {
+      "id": "post-aet-1",
+      "projectId": "proj-aether",
+      "title": "Studio Reference One — 42dB Broadband ANC Benchmark",
+      "caption": "Measured in our anechoic chamber: zero upper-mid coloration with ANC engaged. Built for engineers who travel.",
+      "hashtags": [
+        "#StudioReference",
+        "#AudioEngineering",
+        "#AetherAudio"
+      ],
+      "platforms": [
+        "youtube",
+        "linkedin",
+        "x"
+      ],
+      "format": "Video",
+      "pillarId": "pil-aet-1",
+      "status": "Published",
+      "scheduledAt": "2026-11-08T17:00:00.000Z",
+      "publishedAt": "2026-11-08T17:00:00.000Z",
+      "assetId": "ast-aet-1",
+      "mediaKey": "asset_audio_headphones",
+      "autoScheduled": true,
+      "assignee": "Devon Brooks",
+      "comments": [],
+      "metrics": {
+        "impressions": 58200,
+        "reach": 46900,
+        "likes": 2640,
+        "comments": 192,
+        "shares": 340,
+        "saves": 880,
+        "clicks": 1580,
+        "engagementRate": 8.64
+      }
+    },
+    {
+      "id": "post-aet-2",
+      "projectId": "proj-aether",
+      "title": "Machined Anodized Hinge — 10-Year Repairability Spec",
+      "caption": "Every hinge pin, battery pack, and lambskin pad is user-serviceable with a single Torx T6 driver.",
+      "hashtags": [
+        "#RightToRepair",
+        "#IndustrialDesign"
+      ],
+      "platforms": [
+        "instagram",
+        "pinterest",
+        "linkedin"
+      ],
+      "format": "Carousel",
+      "pillarId": "pil-aet-3",
+      "status": "In Review",
+      "scheduledAt": "2026-11-18T14:00:00.000Z",
+      "assetId": "ast-aet-1",
+      "mediaKey": "asset_audio_headphones",
+      "autoScheduled": false,
+      "assignee": "Devon Brooks",
+      "comments": [
+        {
+          "id": "c-5",
+          "authorName": "Devon Brooks",
+          "authorRole": "Product Marketing",
+          "body": "Need hardware lead confirmation on the Torx driver size before scheduling.",
+          "createdAt": "2026-11-14T18:00:00.000Z",
+          "action": "submitted"
+        }
+      ]
+    },
+    {
+      "id": "post-aet-3",
+      "projectId": "proj-aether",
+      "title": "Late-Night Mastering Session With Studio Reference One",
+      "caption": "How producer Kaelen Vance checks sub-bass translation without studio monitors on tour.",
+      "hashtags": [
+        "#MusicProduction",
+        "#Mastering"
+      ],
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "format": "Reel / Short",
+      "pillarId": "pil-aet-2",
+      "status": "Scheduled",
+      "scheduledAt": "2026-11-16T18:00:00.000Z",
+      "assetId": "ast-aet-1",
+      "mediaKey": "asset_audio_headphones",
+      "autoScheduled": true,
+      "assignee": "Devon Brooks",
+      "comments": []
+    },
+    {
+      "id": "post-nor-1",
+      "projectId": "proj-northline",
+      "title": "V60 1:16.5 Morning Extraction Recipe",
+      "caption": "94°C soft water, 45g bloom for 40 seconds, slow spiral pour to 300g. Highlighting bergamot and stone-fruit notes in our washed Sidama lot.",
+      "hashtags": [
+        "#PourOver",
+        "#SpecialtyCoffee",
+        "#NorthlineRoast"
+      ],
+      "platforms": [
+        "tiktok",
+        "instagram",
+        "pinterest",
+        "youtube"
+      ],
+      "format": "Reel / Short",
+      "pillarId": "pil-nor-1",
+      "status": "Published",
+      "scheduledAt": "2026-11-10T12:00:00.000Z",
+      "publishedAt": "2026-11-10T12:00:00.000Z",
+      "assetId": "ast-nor-1",
+      "mediaKey": "asset_coffee_pour",
+      "autoScheduled": true,
+      "assignee": "Sora Takahashi",
+      "comments": [],
+      "metrics": {
+        "impressions": 72100,
+        "reach": 61400,
+        "likes": 4120,
+        "comments": 158,
+        "shares": 520,
+        "saves": 2680,
+        "clicks": 890,
+        "engagementRate": 12.18
+      }
+    },
+    {
+      "id": "post-nor-2",
+      "projectId": "proj-northline",
+      "title": "2026 Harvest Farm-Gate Transparency Report",
+      "caption": "We paid an average of $4.85/lb FOB across 14 partner micro-lots this season—more than double commodity benchmarks.",
+      "hashtags": [
+        "#DirectTrade",
+        "#CoffeeTransparency"
+      ],
+      "platforms": [
+        "linkedin",
+        "facebook",
+        "x"
+      ],
+      "format": "Article",
+      "pillarId": "pil-nor-2",
+      "status": "In Review",
+      "scheduledAt": "2026-11-19T10:00:00.000Z",
+      "assetId": "ast-nor-1",
+      "mediaKey": "asset_coffee_pour",
+      "autoScheduled": false,
+      "assignee": "Sora Takahashi",
+      "comments": []
+    }
+  ],
+  "assets": [
+    {
+      "id": "ast-sol-1",
+      "projectId": "proj-solstice",
+      "title": "Botanical Serum — Travertine Morning Hero",
+      "type": "image",
+      "source": "studio",
+      "mediaKey": "asset_skincare_serum",
+      "dimensions": "1600 × 1200 px",
+      "platforms": [
+        "instagram",
+        "linkedin",
+        "facebook",
+        "pinterest"
+      ],
+      "tags": [
+        "serum",
+        "product-hero",
+        "q4-launch"
+      ],
+      "createdAt": "2026-11-04T09:15:00.000Z"
+    },
+    {
+      "id": "ast-sol-2",
+      "projectId": "proj-solstice",
+      "title": "Aura Stone Series — Canva Editorial Grid",
+      "type": "template",
+      "source": "canva",
+      "mediaKey": "canva_template_launch",
+      "dimensions": "1080 × 1350 px",
+      "platforms": [
+        "instagram",
+        "pinterest",
+        "linkedin"
+      ],
+      "tags": [
+        "canva",
+        "carousel",
+        "radiance-jar"
+      ],
+      "createdAt": "2026-11-09T14:30:00.000Z",
+      "canvaDesignId": "canva-des-1"
+    },
+    {
+      "id": "ast-aet-1",
+      "projectId": "proj-aether",
+      "title": "Studio Reference One — Slate Plinth Shot",
+      "type": "image",
+      "source": "studio",
+      "mediaKey": "asset_audio_headphones",
+      "dimensions": "1600 × 1200 px",
+      "platforms": [
+        "youtube",
+        "linkedin",
+        "x",
+        "instagram"
+      ],
+      "tags": [
+        "hardware",
+        "anc",
+        "flagship"
+      ],
+      "createdAt": "2026-11-05T11:20:00.000Z"
+    },
+    {
+      "id": "ast-nor-1",
+      "projectId": "proj-northline",
+      "title": "Morning Gooseneck Pour-Over Extraction",
+      "type": "video",
+      "source": "studio",
+      "mediaKey": "asset_coffee_pour",
+      "dimensions": "1080 × 1920 px",
+      "platforms": [
+        "tiktok",
+        "instagram",
+        "youtube",
+        "pinterest"
+      ],
+      "tags": [
+        "pour-over",
+        "vertical",
+        "brew-guide"
+      ],
+      "createdAt": "2026-11-07T08:45:00.000Z"
+    }
+  ]
+}
